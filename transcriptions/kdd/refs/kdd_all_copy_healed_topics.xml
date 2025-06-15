@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transcripts>
+  <besigheid>
+    <topicblock id="1">
+      <text>
+            Suid-Afrika se ekonomie het onlangs 'n skrale toename getoon, 'n syfer wat weereens die onderliggende broosheid
+            van ons ekonomiese herstel beklemtoon. Volgens die jongste data van Statistieke Suid-Afrika, het die
+            landbousektor wel 'n positiewe bydrae gelewer, maar dit is grootliks teengewerk deur 'n teleurstellende afname
+            in die vervaardigings en mynbousektore. Die regering het sy verbintenis herhaal om strukturele hervormings te
+            versnel wat logistieke knelpunte en energie onsekerheid moet aanspreek, faktore wat kenners meen deurslaggewend
+            is om besigheidsvertroue te herstel en volhoubare groei te stimuleer.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="2">
+      <text>
+            Dit is weer daardie tyd van die jaar. Soos die koue inrol, hou almal asem op oor Eskom se winterplan. Die
+            kragreus sê hulle is beter voorbereid as verlede jaar, met meer opwekkingskapasiteit wat na bewering aanlyn is.
+            Maar vir die gemiddelde kleinsake eienaar voel dit soos 'n dobbelspel. Gaan die ligte aanbly sodat die oonde kan
+            bak en die masjiene kan loop? Baie hoop vir die beste, maar beplan vir die ergste, met die koste van
+            kragopwekkers en sonpanele wat 'n groot hap uit enige moontlike wins neem.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="3">
+      <text>
+            Die jongste aanpassing in die brandstofprys bied 'n welkome, hoewel geringe, verligting vir Suid-Afrikaanse
+            verbruikers en besighede. 'n Klein afname in beide petrol en diesel is aangekondig, hoofsaaklik te danke aan 'n
+            effense versterking van die Rand en laer internasionale oliepryse. Vervoer en logistiekmaatskappye, wat 'n
+            integrale deel van die ekonomie vorm, sal hierdie daling verwelkom aangesien dit hul bedryfskostes direk
+            beïnvloed. Analiste waarsku egter dat wisselvalligheid in die wêreld en plaaslike ekonomiese druk hierdie
+            positiewe tendens vinnig kan omkeer.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="4">
+      <text>
+            As jy jou oë op die JSE hou, sal jy weet dis onstabiel op die oomblik. Die mark het die laaste paar weke sy op
+            en afdraandes gehad, grootliks gedryf deur internasionale markbewegings en plaaslike nuus. Hulpbronaandele kry
+            'n bietjie hupstoot danksy beter kommoditeitspryse, maar die kleinhandelsektor voel nog die knyp van verbruikers
+            wat hul geld deeglik moet bestuur. Vir die van ons met 'n bietjie geld belê, is die vraag soos altyd: is dit nou
+            die tyd om te koop, te verkoop of maar net vas te byt en te hoop vir kalmer waters?
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="5">
+      <text>
+            Die klein, medium en mikro ondernemingsektor bly die ruggraat van werkskepping in Suid-Afrika, tog staar hierdie
+            ondernemings steeds enorme struikelblokke in die gesig. 'n Onlangse verslag deur die Kleinsake instituut
+            beklemtoon dat burokratiese rompslomp en toegang tot finansiering die grootste struikelblokke vir groei bly.
+            Terwyl die regering se nuwe leningskemas vir kleinbesighede lofwaardig is, voer belanghebbendes aan dat die
+            implementering en toeganklikheid daarvan krities sal wees. Sonder 'n wesenlike verandering in die regulatoriese
+            omgewing, loop talle belowende klein besighede die gevaar om te stagneer of selfs te misluk.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="6">
+      <text>
+            Dit voel asof almal deesdae 'n plan moet maak om die maand deur te kom, en dit wys in hoe ons ons geld spandeer.
+            Data van groot kleinhandelaars wys dat mense meer fokus op die noodsaaklikhede soos kos, vervoer en data.
+            Luukshede en uiteet word eerste gesny. Wat interessant is, is die groei in aanlyn inkopies vir kruideniersware.
+            Dit lyk asof gerief en die vermoë om pryse te vergelyk sonder om jou huis te verlaat, swaarder weeg. Vir
+            besighede is die boodskap duidelik: waarde en gerief is wat die Suid-Afrikaanse verbruiker nou soek.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="7">
+      <text>
+            Die amptelike werkloosheidsyfer bly op 'n kommerwekkende hoë vlak, met jeugwerkloosheid wat 'n besonderse
+            dringende krisis verteenwoordig. Hierdie statistiek is nie net 'n sosio ekonomiese tragedie nie, maar het ook 'n
+            direkte impak op besigheidsgroei. 'n Krimpende poel van verbruikers met besteebare inkomste beperk die mark vir
+            goedere en dienste. Verder skep die hoë werkloosheid 'n omgewing van sosiale onstabiliteit, wat
+            besigheidsvertroue en langtermynbeleggings negatief kan beïnvloed. Programme wat vaardigheidsontwikkeling en
+            entrepreneurskap bevorder, word as noodsaaklik beskou om hierdie siklus te breek.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="8">
+      <text>
+            So, die Reserwebank het besluit om die rentekoers onveranderd te laat. Geen groot verrassing daar nie.
+            Vir die wat skuld het op 'n huis of motor, is dit 'n sug van verligting dat dinge nie nou duurder word nie. Maar
+            vir die ekonomie as geheel, is dit 'n teken dat ons nog nie uit die gevaarsone is nie. Die Bank probeer inflasie
+            in toom hou sonder om die bietjie ekonomiese groei wat ons het, heeltemal te verwurg. Almal wag nou om te sien
+            wat die groot internasionale banke doen, want dit sal waarskynlik die volgende skuif hier by die huis beïnvloed.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="9">
+      <text>
+            Ten spyte van die vele ekonomiese uitdagings, is daar 'n merkbare toename in beleggings in Suid-Afrika se groen
+            ekonomie. Internasionale en plaaslike fondse word toenemend spandeer op hernubare energieprojekte, veral son en
+            windkrag. Hierdie tendens word gedryf deur beide die noodsaaklikheid om die land se koolstofvoetspoor te
+            verminder en die kommersiële lewensvatbaarheid van alternatiewe energiebronne in die lig van stygende
+            elektrisiteitskostes. Hierdie groen revolusie hou die belofte in van nie net 'n meer volhoubare toekoms nie,
+            maar ook die skepping van broodnodige nuwe werkgeleenthede in 'n vinnige ontwikkelende sektor.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="10">
+      <text>
+            Almal praat oor kunsmatige intelligensie. Gaan dit ons werk steel of gaan dit ons lewens makliker maak? Hier in
+            Suid-Afrika begin besighede nou ernstig kyk hoe hulle dit kan inspan. Van kletsbotte wat kliëntediens hanteer
+            tot stelsels wat data ontleed om beter besluite te neem, die moontlikhede is eindeloos. Die groot vraag is hoe
+            ons ons arbeidsmag voorberei vir hierdie verandering. Dit gaan nie net daaroor om poste te beskerm nie, maar om
+            mense die vaardighede te gee om saam met hierdie nuwe tegnologie te werk. Dis 'n gesprek wat elke besigheid,
+            groot of klein, nou moet begin voer.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>-2.6590</umass>
+        <npmi>-0.3205</npmi>
+        <coherence_value>0.8473</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-2.8857</umass>
+        <npmi>-0.2200</npmi>
+        <coherence_value>0.6752</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>-0.3750</umass>
+        <npmi>0.2003</npmi>
+        <coherence_value>0.9628</coherence_value>
+      </model>
+    </model_coherence>
+  </besigheid>
+  <diere>
+    <topicblock id="11">
+      <text>
+            Dit gaan nie goed met ons leeus in Afrika nie. Daar is al hoe minder van hulle oor,
+            veral omdat mense hul huise afbreek. Organisasies probeer hard om hulle te beskerm en
+            seker te maak daar is genoeg plek vir hulle om te lewe.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="12">
+      <text>
+            Die pikkewyne by die kus kry swaar. Die oseaan word warmer, en daar is minder kos
+            vir hulle. Wetenskaplikes werk saam om te verstaan wat aangaan en hoe ons hierdie oulike
+            voëls kan help.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="13">
+      <text>
+            Daar is baie honde en katte by diereskuilings wat 'n nuwe huis soek. Hierdie plekke
+            is vol, en hulle hoop mense sal kom aanneem sodat die diere 'n tweede kans kan kry.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="14">
+      <text>
+            Navorsers het 'n nuwe manier gevind om olifante te volg met spesiale tegnologie. Dit
+            help hulle om te sien waar die olifante beweeg en hoe hulle veilig kan bly, weg van
+            mense wat hulle wil seermaak.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="15">
+      <text>
+            Goeie nuus vir die see! Meer dolfyne word naby ons kus gesien. Dit wys dalk dat die
+            see gesonder word, en hulle kry genoeg vis om te eet.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="16">
+      <text>
+            Wetenskaplikes het 'n klomp nuwe paddaspesies in die reënwoud ontdek. Dit is
+            opwindend, want dit wys ons hoe baie diere daar nog is wat ons nie ken nie, en hoekom
+            dit belangrik is om die natuur te bewaar.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="17">
+      <text>
+            Ons het bye nodig! Hulle help plante om te groei sodat ons kos kan hê. Maar bye
+            sterf uit, en mense is bekommerd oor wat dit vir ons gaan beteken. Ons moet meer bome
+            plant om hulle te help.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="18">
+      <text>
+            'n Skaars valk wat lanklaas gesien is, is weer opgemerk. Dit gee hoop dat ons nog
+            baie diere daar buite het wat oorleef, selfs al dink ons hulle is weg.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="19">
+      <text>
+            Al hoe meer mense in die stede kry troeteldiere. Daar is nou meer parke en plekke
+            waar mense hul honde kan gaan stap, wat goed is vir die diere én die eienaars.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="20">
+      <text>
+            Soms kom ape uit die bos en maak bietjie 'n gemors in die dorpies. Mense probeer
+            maniere kry om saam met hulle te lewe sonder dat dit probleme veroorsaak vir almal.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.6600</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-11.0156</umass>
+        <npmi>-0.0060</npmi>
+        <coherence_value>0.5256</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>-4.6835</umass>
+        <npmi>0.2754</npmi>
+        <coherence_value>0.7459</coherence_value>
+      </model>
+    </model_coherence>
+  </diere>
+  <inter_nuus>
+    <topicblock id="21">
+      <text>
+            Die wêreld hou asem op namate spanning tussen Rusland en Oekraïne weer toeneem. In die
+            afgelope week
+            het verskeie internasionale organisasies, insluitend die Verenigde Nasies en die
+            Europese Unie, hul
+            kommer uitgespreek oor die verskerping van militêre optrede naby die oostelike grens van
+            Oekraïne.
+            Burgers in Kiev en omliggende dorpe leef in vrees vir verdere konflik, terwyl
+            diplomatieke pogings
+            in Genève voortgaan om ’n volhoubare oplossing te vind. Intussen het duisende mense hul
+            huise
+            verlaat en is daar kommer oor humanitêre nood, met voedsel- en mediese voorrade wat
+            begin min raak.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="22">
+      <text>
+            In Suid-Amerika woed die debat oor die beskerming van die Amasonewoud steeds voort. Die
+            Brasiliaanse
+            regering het pas nuwe wette aanvaar wat beleggings in volhoubare bosbou en wetenskaplike
+            navorsing
+            sal verhoog, maar omgewingsgroepe waarsku dat stropery en onwettige ontbossing steeds op
+            rekordvlakke plaasvind. Plaaslike gemeenskappe in die Amasonegebied rapporteer dat hul
+            lewensbestaan
+            bedreig word, terwyl die wêreldgemeenskap druk op die regering plaas om die ekosisteem
+            te beskerm.
+            Intussen kry veldwerkers steun van internasionale fondse om beskadigde areas te herstel
+            en
+            biodiversiteit te bevorder.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="23">
+      <text>
+            Die ekonomiese gevolge van inflasie en wisselvallige markte is wêreldwyd sigbaar. Die
+            Amerikaanse
+            Federale Reserweraad het rentekoerse vir die derde keer vanjaar verhoog in ’n poging om
+            die vinnig
+            stygende inflasie te tem, terwyl Europa met ’n energiekrisis worstel weens onstabiele
+            gasvoorrade
+            uit Rusland. In Afrika het verskeie lande hul eie uitdagings met voedselsekerheid en
+            dalende
+            valuta-waardes. Internasionale finansiële instellings, soos die IMF, bied lenings en
+            tegniese
+            bystand aan om ekonomiese stabiliteit te bevorder, maar armoede bly ’n groot bekommernis
+            vir baie
+            huishoudings.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="24">
+      <text>
+            Miljoene mense regoor Asië het die afgelope maand swaar weerstoestande ervaar met
+            oorstromings,
+            tifone en hittegolwe wat gemeenskappe in lande soos Indië, Bangladesj en die Filippyne
+            getref het.
+            Die Verenigde Nasies en ander hulporganisasies het rampverligtingspanne ontplooi om kos,
+            water en
+            mediese sorg aan die ergste getroffenen te verskaf. Intussen waarsku
+            klimaatwetenskaplikes dat sulke
+            ekstreme weerstoestande waarskynlik meer gereeld sal voorkom namate klimaatsverandering
+            versnel.
+            Regerings word aangemoedig om meer volhoubare infrastruktuur en rampbestuursmaatreëls te
+            implementeer.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="25">
+      <text>
+            Die migrasiekrisis in Europa bly ’n sensitiewe onderwerp namate duisende vlugtelinge
+            steeds poog om
+            die Middellandse See oor te steek op soek na ’n beter lewe. Regerings in Italië,
+            Griekeland en
+            Spanje werk saam met die Europese Unie om grensbeheer te versterk en humanitêre
+            ondersteuning aan
+            migrante te bied. Daar is egter steeds kommer oor die hantering van kinders sonder
+            begeleiding en
+            oorvol aanhoudingsfasiliteite. Intussen pleit regtegroepe vir ’n meer menslike en
+            gesamentlike
+            benadering tot migrasiebeleid in die streek.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="26">
+      <text>
+            Op die vasteland van Afrika is daar hoopvolle tekens van demokratiese vooruitgang, veral
+            in lande
+            soos Nigerië waar onlangse verkiesings grotendeels vreedsaam verloop het. Internasionale
+            waarnemers
+            prys die deursigtigheid van die verkiesingsproses, hoewel daar steeds besorgdheid is oor
+            politieke
+            geweld en ongelyke toegang tot stemlokale in landelike gebiede. Afrika-unielande werk
+            saam om
+            demokratiese praktyke en menseregte te bevorder, terwyl buitelandse donateurs finansiële
+            en
+            logistieke ondersteuning bied om regeringsdoeltreffendheid te verbeter.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="27">
+      <text>
+            Die konflik in die Gaza-strook het die afgelope week weer opslae gemaak nadat nuwe
+            geweld tussen
+            Israeliese magte en Palestynse groepe uitgebreek het. Die Amerikaanse staatsdepartement
+            en Europese
+            Unie het beide ’n beroep op kalmte gedoen en vra vir onmiddellike vredesonderhandelinge.
+            Inwoners
+            van Gaza vertel van daaglikse uitdagings soos watertekorte en beskadigde infrastruktuur,
+            terwyl
+            hulporganisasies sukkel om basiese dienste aan die bevolking te lewer. Die wêreld hou
+            hierdie streek
+            fyn dop, met hoop op ’n blywende skietstilstand.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="28">
+      <text>
+            Internasionale sportgebeure het die afgelope naweek miljoene kykers gelok, met die
+            Olimpiese Spele
+            in Parys as hoogtepunt. Suid-Afrikaanse atlete het hul land trots gemaak met verskeie
+            medaljes in
+            swem en atletiek, terwyl die openingseremonie wyd beskou is as een van die mees
+            innoverende tot
+            dusver. Organiseerders beklemtoon die belangrikheid van internasionale samewerking in
+            sport as
+            brugbouer tussen kulture, ondanks logistieke uitdagings en gesondheidsmaatreëls wat
+            steeds nagekom
+            moet word.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="29">
+      <text>
+            In Noord-Amerika het die VSA en Kanada ’n nuwe handelsooreenkoms onderteken wat poog om
+            tariewe op
+            sleutelprodukte soos staal en motorvoertuie te verlaag. Die ooreenkoms is deel van ’n
+            poging om
+            ekonomiese groei aan te wakker en bilaterale verhoudings te versterk na jare van
+            spanning oor
+            handelsbeleid. Landbouprodusente aan beide kante van die grens verwelkom die skuif, maar
+            sommige
+            nywerhede waarsku dat verdere aanpassings nodig is om ’n regverdige speelveld te
+            verseker.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="30">
+      <text>
+            Die beskerming van minderheidsgroepe en menseregte is steeds ’n fokuspunt in
+            internasionale
+            diplomatie. Die Verenigde Nasies het onlangs ’n resolusie aanvaar wat lidlande aanmoedig
+            om stappe
+            te neem teen diskriminasie en vervolging van etniese en godsdienstige minderhede. In
+            lande soos
+            Mianmar en Afghanistan bly regtegroepe besorg oor die lot van kwesbare bevolkings, en
+            internasionale
+            druk neem toe om hervormings te implementeer en onregverdige beleid te hersien. Hierdie
+            kwessies
+            staan sentraal in verskeie wêreldwye forums en konferensies hierdie maand.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>-4.6356</umass>
+        <npmi>-0.0390</npmi>
+        <coherence_value>0.7298</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-2.7417</umass>
+        <npmi>-0.4347</npmi>
+        <coherence_value>0.6520</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>-0.3564</umass>
+        <npmi>-0.1274</npmi>
+        <coherence_value>0.9106</coherence_value>
+      </model>
+    </model_coherence>
+  </inter_nuus>
+  <karre>
+    <topicblock id="31">
+      <text>
+            Mense in Suid-Afrika kla dat nuwe karre deesdae baie kos. Dit maak dit moeilik vir baie om 'n splinternuwe voertuig te koop.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="32">
+      <text>
+            Die prys van petrol is weer 'n groot kopseer. Dit maak ry duurder en mense soek nou na karre wat minder brandstof gebruik.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="33">
+      <text>
+            Al hoe meer elektriese karre is hier. Hulle gebruik nie petrol nie, maar is nogal duur. Die regering kyk hoe hulle dit goedkoper kan maak.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="34">
+      <text>
+            Omdat nuwe karre duur is, verkoop tweedehandse karre baie goed. Mense soek goeie, gebruikte voertuie wat hul kan bekostig.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="35">
+      <text>
+            Die karfabrieke hier in Suid-Afrika is belangrik. Hulle maak karre vir ons en vir ander lande, wat help om werk te skep vir baie mense.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="36">
+      <text>
+            Soms is dit moeilik om onderdele vir karre te kry. Dit beteken karre staan langer in die werkswinkel as iets breek.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="37">
+      <text>
+            Die nuwe karre wat gemaak word, is al hoe veiliger. Hulle het nuwe tegnologie wat help om ongelukke te voorkom en mense te beskerm.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="38">
+      <text>
+            Bakkies is steeds baie populêr in Suid-Afrika. Mense gebruik dit vir werk en vir plesier.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="39">
+      <text>
+            Dit is 'n uitdaging om karre uit die fabrieke na die handelaars te kry. Daar is soms probleme met treine en vragmotors.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="40">
+      <text>
+            Karre word al hoe slimmer. Hulle het nou goed soos groot skerms, GPS, en ander snufies wat die rit lekkerder maak.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>nan</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-0.5297</umass>
+        <npmi>0.6263</npmi>
+        <coherence_value>0.9407</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.9898</coherence_value>
+      </model>
+    </model_coherence>
+  </karre>
+  <politiek>
+    <topicblock id="41">
+      <text>Daar’s groot opgewondenheid in die land, want daar’s pas ‘n nuwe koalisie in die
+            parlement aangekondig. Die partye sê hulle gaan nou saamwerk om werkloosheid te probeer
+            afneem en korrupsie vas te vat. Sommige mense is hoopvol, maar ander wonder of almal
+            regtig saam sal trek.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="42">
+      <text>Gister het die president ‘n toespraak gehou oor belasting. Hy het belowe daar sal nie
+            groot verhogings wees nie, maar mense is steeds bekommerd oor pryse wat styg. In die
+            stad sê sakemanne hulle hoop die regering gaan klein besighede meer ondersteun, want
+            almal voel die ekonomiese druk.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="43">
+      <text>‘n Bekende opposisieleider is vandag in die nuus omdat sy kritiek gelewer het op die
+            nuwe wet oor waterbeskerming. Sy sê dis nodig, maar sy dink die regering luister nie na
+            gemeenskappe wat geraak word nie. Aan die anderkant sê die minister almal kry kans om
+            insette te lewer.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="44">
+      <text>In die dorp het die munisipaliteit nou weer vergader oor die paaie wat vol gate is.
+            Die burgemeester sê daar is geld, maar die kontrakteurs vat lank. Baie inwoners is moeg
+            vir beloftes—hulle sê elke jaar hoor hulle dieselfde en die paaie bly net so sleg.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="45">
+      <text>Die verkiesing kom oor ‘n paar maande en die partye begin plakkate opsit en by skole
+            toesprake hou. Party mense is opgewonde, ander sê hulle het klaar besluit vir wie hulle
+            gaan stem. Baie jongmense sê hulle voel hul stem maak nie ‘n verskil nie, maar
+            organisasies moedig hulle aan om betrokke te raak.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="46">
+      <text>Daar was ‘n betoging by die stadsraadgebou oor hoër elektrisiteitspryse. Baie mense sê
+            hulle kan nie die nuwe tariewe bekostig nie. Die burgemeester sê hulle probeer met Eskom
+            onderhandel, maar dit is moeilik. Intussen vra inwoners net vir meer deursigtigheid.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="47">
+      <text>Die regering het vandag ‘n nuwe plan aangekondig om misdaad in die stad te beveg. Daar
+            gaan meer polisiëring wees en ‘n paar buurtwagte is nou ook betrek. Sommige inwoners sê
+            dis ‘n goeie begin, maar hulle hoop dit is nie net vir die nuus nie.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="48">
+      <text>Na ‘n onlangse hofsaak oor grondbesit, is mense nuuskierig oor wat volgende gaan
+            gebeur. Die minister sê die regering wil seker maak almal kry ‘n regverdige kans, maar
+            boere sê hulle is onseker oor hul plase se toekoms. Dit bly ‘n warm gesprekspunt op die
+            dorp.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="49">
+      <text>Parlementslede het gister lank gedebatteer oor gesondheidsorg. Die minister belowe
+            meer klinieke gaan oopmaak en dat die diens gaan verbeter. Mense in die platteland sê
+            hulle hoop dit gebeur, want tans moet hulle ver ry om ‘n dokter te sien.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="50">
+      <text>Die opposisie hou vandag ‘n groot byeenkoms in die hoofstad. Hulle sê hulle wil die
+            regering se planne uitdaag en hul eie oplossings voorstel. Partylede het plakkate en
+            T-hemde gedra en daar is ‘n regte fees-atmosfeer, al is daar ook ‘n paar teenstanders
+            wat kom protesteer het.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>-6.7223</umass>
+        <npmi>0.1754</npmi>
+        <coherence_value>0.7437</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-4.8636</umass>
+        <npmi>-0.0184</npmi>
+        <coherence_value>0.7122</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>-0.3358</umass>
+        <npmi>0.3302</npmi>
+        <coherence_value>0.9406</coherence_value>
+      </model>
+    </model_coherence>
+  </politiek>
+  <skool>
+    <topicblock id="51">
+      <text>
+            Suid-Afrikaanse skole probeer al hoe meer om kinders in hul eie moedertaal te leer,
+            veral as hulle klein is. Navorsing wys dat dit kinders help om beter te leer en slim te
+            word.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="52">
+      <text>
+            Daar is 'n nuwe aanlyn skool in Afrikaans wat volgende jaar begin. Dit is goed vir
+            gesinne wat hul kinders by die huis wil skoolhou, en dit wys hoe tegnologie help met
+            leer.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="53">
+      <text>
+            Baie leerders in Suid-Afrika sukkel nog met lees en skryf, veral in 'n tweede taal
+            soos Afrikaans. Onderwysers probeer nuwe maniere vind om hulle te help, maar daar is nog
+            baie uitdagings.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="54">
+      <text>
+            Die regering kyk nou weer na hoe ons onderwysers oplei. Hulle wil seker maak ons het
+            genoeg goeie onderwysers, veral vir die jongste kinders en vir vakke soos wetenskap en
+            wiskunde.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="55">
+      <text>
+            Sommige staatskole in Suid-Afrika doen regtig goed, selfs beter as van die duur
+            private skole! Dit wys dat met harde werk en goeie onderwysers, ons kinders ver kan kom.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>3</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="56">
+      <text>
+            Geld vir skole bly 'n groot kwessie. Die regering probeer om geld regverdig te
+            versprei, veral vir armer skole wat sukkel om alles te koop wat hulle nodig het.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>0</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="57">
+      <text>
+            'n Groot nuwe privaat universiteit in Afrikaans word gebou. Dit sal meer geleenthede
+            bied vir studente om in Afrikaans te studeer en die taal se toekoms in hoër onderwys
+            verseker.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>2</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="58">
+      <text>
+            Meer en meer skole gebruik nou tegnologie in die klas, soos tablette en rekenaars.
+            Dit maak leer meer pret en gee kinders toegang tot baie inligting, al is daar nog
+            uitdagings met toegang.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="59">
+      <text>
+            Die regering wil die wet verander oor skooltoelatings en taalbeleid. Dit veroorsaak
+            soms 'n bietjie drama, want mense is bekommerd oor wat dit vir Afrikaanse skole sal
+            beteken.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>2</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>1</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <topicblock id="60">
+      <text>
+            Daar is baie nuwe idees oor hoe om die skoolkurrikulum te verbeter. Dit gaan oor wat
+            kinders leer en hoe hulle dit leer, sodat hulle reg is vir die toekoms en alles wat die
+            wêreld van hulle vra.
+      </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+        </model>
+        <model name="LDA">
+          <assigned_topic>3</assigned_topic>
+        </model>
+        <model name="NMF">
+          <assigned_topic>0</assigned_topic>
+        </model>
+      </topic_assignments>
+    </topicblock>
+    <model_coherence>
+      <model name="BER">
+        <umass>-6.7997</umass>
+        <npmi>0.2639</npmi>
+        <coherence_value>0.7399</coherence_value>
+      </model>
+      <model name="LDA">
+        <umass>-0.9027</umass>
+        <npmi>0.1195</npmi>
+        <coherence_value>0.7635</coherence_value>
+      </model>
+      <model name="NMF">
+        <umass>-0.6780</umass>
+        <npmi>0.5228</npmi>
+        <coherence_value>0.9317</coherence_value>
+      </model>
+    </model_coherence>
+  </skool>
+  <overall_summary>
+    <model name="BER">
+      <umass>
+        <avg>-5.2041</avg>
+        <stdev>1.7067</stdev>
+        <min>-6.7997</min>
+        <max>-2.6590</max>
+      </umass>
+      <npmi>
+        <avg>0.0200</avg>
+        <stdev>0.2253</stdev>
+        <min>-0.3205</min>
+        <max>0.2639</max>
+      </npmi>
+      <coherence_value>
+        <avg>0.7441</avg>
+        <stdev>0.0599</stdev>
+        <min>0.6600</min>
+        <max>0.8473</max>
+      </coherence_value>
+    </model>
+    <model name="LDA">
+      <umass>
+        <avg>-3.8232</avg>
+        <stdev>3.5175</stdev>
+        <min>-11.0156</min>
+        <max>-0.5297</max>
+      </umass>
+      <npmi>
+        <avg>0.0111</avg>
+        <stdev>0.3275</stdev>
+        <min>-0.4347</min>
+        <max>0.6263</max>
+      </npmi>
+      <coherence_value>
+        <avg>0.7115</avg>
+        <stdev>0.1256</stdev>
+        <min>0.5256</min>
+        <max>0.9407</max>
+      </coherence_value>
+    </model>
+    <model name="NMF">
+      <umass>
+        <avg>-1.2857</avg>
+        <stdev>1.7035</stdev>
+        <min>-4.6835</min>
+        <max>-0.3358</max>
+      </umass>
+      <npmi>
+        <avg>0.2403</avg>
+        <stdev>0.2126</stdev>
+        <min>-0.1274</min>
+        <max>0.5228</max>
+      </npmi>
+      <coherence_value>
+        <avg>0.9135</avg>
+        <stdev>0.0790</stdev>
+        <min>0.7459</min>
+        <max>0.9898</max>
+      </coherence_value>
+    </model>
+  </overall_summary>
+</transcripts>
