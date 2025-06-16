@@ -13,12 +13,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hohe, blij</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>nieuwe, economiese, data</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>economiese, herstel, jongste</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -32,13 +35,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>data, klein, gerief</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>mark, sys, bieke</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>bieke, mark, beter</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -53,12 +59,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>3</assigned_topic>
+          <topic_label>plaaslijke, economiese, internationale</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>kleinbeesigheer, internationale, klein</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>economiese, herstel, jongste</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -73,12 +82,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>bieke, ver, mark</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>mark, sys, bieke</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>bieke, mark, beter</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -93,13 +105,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hohe, blij</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>kleinbeesigheer, internationale, klein</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hohe, omgeving</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -113,13 +128,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>data, klein, gerief</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>huis, werkloosheid, beïnvloed</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>data, wijs, gerief</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -135,12 +153,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hohe, blij</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>huis, werkloosheid, beïnvloed</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hohe, omgeving</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -154,13 +175,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>0</assigned_topic>
+          <topic_label>bieke, ver, mark</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>huis, werkloosheid, beïnvloed</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>economiese, herstel, jongste</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -176,12 +200,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>3</assigned_topic>
+          <topic_label>plaaslijke, economiese, internationale</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>nieuwe, economiese, data</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>economiese, herstel, jongste</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -195,21 +222,24 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>data, klein, gerief</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>nieuwe, economiese, data</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>bieke, mark, beter</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
     <model_coherence>
       <model name="BER">
-        <umass>-6.6581</umass>
-        <npmi>0.0773</npmi>
-        <coherence_value>0.6579</coherence_value>
+        <umass>-0.4665</umass>
+        <npmi>-0.0970</npmi>
+        <coherence_value>0.9204</coherence_value>
       </model>
       <model name="LDA">
         <umass>-11.0734</umass>
@@ -232,12 +262,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>goed, mensen, probeer</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>beie, plek, liefdes</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>probeer, krij, veroorzaakt verander</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -248,12 +281,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>zee, krijg, aangaan</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>koos, helpen, krijg</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>helpen, koos, krijg</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -264,12 +300,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>beie, aannem, katte</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>plek, krij, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>probeer, krij, veroorzaakt verander</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -280,12 +319,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>goed, mensen, probeer</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>plek, krij, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>mensen, blij, volg</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -296,12 +338,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>zee, krijg, aangaan</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>dieren, krijg, zee</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>helpen, koos, krijg</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -313,12 +358,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>3</assigned_topic>
+          <topic_label>belangryk, wetenskaplik klomp, dun sel</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>dieren, krijg, zee</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>klomp, belangryk, bewaar</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -329,12 +377,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>beie, aannem, katte</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>beie, plek, liefdes</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>helpen, koos, krijg</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -345,12 +396,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>3</assigned_topic>
+          <topic_label>belangryk, wetenskaplik klomp, dun sel</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>koos, helpen, krijg</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>klomp, belangryk, bewaar</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -360,13 +414,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>goed, mensen, probeer</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>dieren, krijg, zee</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>helpen, koos, krijg</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -377,12 +434,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>goed, mensen, probeer</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>koos, helpen, krijg</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>probeer, krij, veroorzaakt verander</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -390,7 +450,7 @@
       <model name="BER">
         <umass>nan</umass>
         <npmi>nan</npmi>
-        <coherence_value>0.5589</coherence_value>
+        <coherence_value>0.6101</coherence_value>
       </model>
       <model name="LDA">
         <umass>-8.8809</umass>
@@ -416,12 +476,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nasies, verenigde nasies, democratiese</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>internationale, ukraine, economiese</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>militaire, ukraine, internationale</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -436,13 +499,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, weerstoestande, plaas</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>internationale, amazone, plaas</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>plaas, amazone, regering</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -457,12 +523,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>economiese, poging, inflatie</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>internationale, ukraine, economiese</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>economiese, inflatie, internationale</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -477,13 +546,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, weerstoestande, plaas</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>weerstoestande, uitdagings, miljoenen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>weerstoestande, implementeer, maand</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -497,13 +569,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>aanhuidingsfaciliteite, organiseerderes probleem, medaille zwem</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>ondersteuning, bied, afrika</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>militaire, ukraine, internationale</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -518,12 +593,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nasies, verenigde nasies, democratiese</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>ondersteuning, bied, afrika</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>plaas, amazone, regering</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -538,12 +616,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>regering, weerstoestande, plaas</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>weerstoestande, uitdagings, miljoenen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>militaire, ukraine, internationale</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -557,13 +638,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>aanhuidingsfaciliteite, organiseerderes probleem, medaille zwem</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>internationale, amazone, plaas</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>plaas, amazone, regering</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -577,12 +661,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>economiese, poging, inflatie</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>internationale, amazone, plaas</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>economiese, inflatie, internationale</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -597,20 +684,23 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nasies, verenigde nasies, democratiese</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>internationale, amazone, plaas</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>plaas, amazone, regering</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
     <model_coherence>
       <model name="BER">
-        <umass>-6.7942</umass>
-        <npmi>-0.1911</npmi>
-        <coherence_value>0.7380</coherence_value>
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.6716</coherence_value>
       </model>
       <model name="LDA">
         <umass>-4.9680</umass>
@@ -632,12 +722,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>bije, mensen, nieuwe</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nieuwe, bije, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nieuwe, bije, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -647,13 +740,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>brandstof, sniffies rit, hoor</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>hylle, petrol, karren</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>soek, goeie, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -663,13 +759,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>hylle, goeie, goed</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>hylle, petrol, karren</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>hylle, goed, petrol</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -679,13 +778,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>hylle, goeie, goed</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>nieuwe, goeie, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>soek, goeie, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -695,13 +797,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>1</assigned_topic>
+          <assigned_topic>0</assigned_topic>
+          <topic_label>karren, soms, anderlande</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>karren, soms, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>soek, goeie, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -711,13 +816,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>1</assigned_topic>
+          <assigned_topic>0</assigned_topic>
+          <topic_label>karren, soms, anderlande</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>karren, soms, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>karren, soms, werkwinkel breek</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -727,13 +835,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>hylle, goeie, goed</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>nieuwe, goeie, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nieuwe, bije, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -742,12 +853,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>bije, mensen, nieuwe</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>nieuwe, goeie, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>soek, goeie, mensen</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -757,13 +871,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>1</assigned_topic>
+          <assigned_topic>0</assigned_topic>
+          <topic_label>karren, soms, anderlande</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>hylle, petrol, karren</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>karren, soms, werkwinkel breek</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -773,21 +890,24 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>brandstof, sniffies rit, hoor</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nieuwe, bije, mensen</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>hylle, goed, petrol</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
     <model_coherence>
       <model name="BER">
-        <umass>-4.7173</umass>
-        <npmi>0.1160</npmi>
-        <coherence_value>0.7332</coherence_value>
+        <umass>-11.1444</umass>
+        <npmi>-0.2503</npmi>
+        <coherence_value>0.5015</coherence_value>
       </model>
       <model name="LDA">
         <umass>-2.8171</umass>
@@ -809,13 +929,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>aangekondigd, nieis kritiek, waterbescherming nodig</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>regering, vandag, hoop</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>mensen, land, hoopvol</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -826,13 +949,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>voel, stem, plakate</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>regering, vandag, hoop</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>hoop, regering, belove verwoegingswees</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -843,13 +969,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>2</assigned_topic>
+          <topic_label>aangekondigd, nieis kritiek, waterbescherming nodig</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>paie, niewe, minister</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>minister, regering, kans</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -861,12 +990,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, paie, aangekonnig</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>paie, niewe, minister</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>minister, regering, kans</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -879,12 +1011,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>voel, stem, plakate</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>regering, vandag, hoop</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>stem, plakate, partijmense</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -896,12 +1031,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, paie, aangekonnig</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>regering, kans, minister</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>minister, regering, kans</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -913,12 +1051,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, paie, aangekonnig</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>regering, vandag, hoop</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>minister, regering, kans</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -929,13 +1070,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, zekermaak</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>regering, kans, minister</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>minister, regering, kans</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -946,13 +1090,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, zekermaak</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>2</assigned_topic>
+          <topic_label>ver, lang, dienst</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>mensen, land, hoopvol</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -964,20 +1111,23 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>voel, stem, plakate</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>regering, vandag, hoop</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>stem, plakate, partijmense</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
     <model_coherence>
       <model name="BER">
-        <umass>-6.9435</umass>
-        <npmi>0.0194</npmi>
-        <coherence_value>0.6967</coherence_value>
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.8156</coherence_value>
       </model>
       <model name="LDA">
         <umass>-4.6595</umass>
@@ -998,13 +1148,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>0</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>leer, kinders, aie</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skoele</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>leer, kinders, ver</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1015,12 +1168,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>nolk, afrikaans, weiß eis</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, school, grutniewe</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>school, regering, blije</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1032,12 +1188,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>2</assigned_topic>
+          <topic_label>nolk, afrikaans, weiß eis</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nolk, afrikaans, weiß</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>nolk, afrikaans, lees</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1048,12 +1207,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>onderwijsers, leer breed, wetenskap wiskende</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skoele</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>leer, kinders, ver</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1064,12 +1226,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>privat, school, regering</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skoele</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>leer, kinders, ver</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1079,13 +1244,16 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>3</assigned_topic>
+          <assigned_topic>1</assigned_topic>
+          <topic_label>privat, school, regering</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, school, grutniewe</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>school, regering, blije</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1096,12 +1264,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>privat, school, regering</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, school, grutniewe</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>1</assigned_topic>
+          <topic_label>nolk, afrikaans, lees</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1112,12 +1283,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>0</assigned_topic>
+          <topic_label>onderwijsers, leer breed, wetenskap wiskende</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nolk, afrikaans, weiß</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>3</assigned_topic>
+          <topic_label>leer, baar, eidavings</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1128,12 +1302,15 @@
       <topic_assignments>
         <model name="BER">
           <assigned_topic>1</assigned_topic>
+          <topic_label>privat, school, regering</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>0</assigned_topic>
+          <topic_label>nolk, afrikaans, weiß</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>2</assigned_topic>
+          <topic_label>school, regering, blije</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
@@ -1143,21 +1320,24 @@
       </text>
       <topic_assignments>
         <model name="BER">
-          <assigned_topic>2</assigned_topic>
+          <assigned_topic>3</assigned_topic>
+          <topic_label>leer, kinders, aie</topic_label>
         </model>
         <model name="LDA">
           <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skoele</topic_label>
         </model>
         <model name="NMF">
           <assigned_topic>0</assigned_topic>
+          <topic_label>leer, kinders, ver</topic_label>
         </model>
       </topic_assignments>
     </topicblock>
     <model_coherence>
       <model name="BER">
-        <umass>-9.1316</umass>
-        <npmi>0.0080</npmi>
-        <coherence_value>0.5974</coherence_value>
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.7957</coherence_value>
       </model>
       <model name="LDA">
         <umass>-2.8431</umass>
@@ -1174,22 +1354,22 @@
   <overall_summary>
     <model name="BER">
       <umass>
-        <avg>-6.8489</avg>
-        <stdev>1.4002</stdev>
-        <min>-9.1316</min>
-        <max>-4.7173</max>
+        <avg>-5.8054</avg>
+        <stdev>5.3389</stdev>
+        <min>-11.1444</min>
+        <max>-0.4665</max>
       </umass>
       <npmi>
-        <avg>0.0059</avg>
-        <stdev>0.1060</stdev>
-        <min>-0.1911</min>
-        <max>0.1160</max>
+        <avg>-0.1737</avg>
+        <stdev>0.0766</stdev>
+        <min>-0.2503</min>
+        <max>-0.0970</max>
       </npmi>
       <coherence_value>
-        <avg>0.6637</avg>
-        <stdev>0.0669</stdev>
-        <min>0.5589</min>
-        <max>0.7380</max>
+        <avg>0.7192</avg>
+        <stdev>0.1397</stdev>
+        <min>0.5015</min>
+        <max>0.9204</max>
       </coherence_value>
     </model>
     <model name="LDA">
