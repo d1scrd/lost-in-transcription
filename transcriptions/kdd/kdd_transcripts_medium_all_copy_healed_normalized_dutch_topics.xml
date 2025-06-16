@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transcripts>
+  <besigheid_trans>
+    <topicblock id="1">
+      <text>Sytafrikase ekonomie het onlangs een skrale toename getoon, a syfer wat weer eens die onderliggende
+                brosheid van ons ekonomiese herstel beklemtoon. Volgens die jongste data van statistieke Sytafrika het
+                die landboubedryf wel a positiewe bijdrage gelewer, maar dit is grotelijk teengewerk dier het
+                teleurstellende afname in die vervaardiging- en mijnbouwsektoren. Die regering het sy verbintenis herhaal
+                om strukturele hervormings te versnel wat logistieke knalpinten en energie-onsekerheid moet aanspreek,
+                factotum wat leners myne die daar slaggevend is om beesgeidsvertrouwen te herstel en volhoubare groei te
+                stimuleer.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>werkloosheid, syfer, hose</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>ver, data, huis</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>data, gerief, wyse</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="2">
+      <text>Dit is weer daar die tyd van die jaar, sus die koue inrol hou male asem op oor Eskomse winterplaas.
+                Die kraggies sye hulle is beter voorbereid as verlede jaar, met meer opwekkingskapaciteit wat
+                bewerings aanlyn is. Maar, vir die gemiddelde klein sake ei en naar voel het sus a dubbelspel, gaan
+                die ligte aanbly roos die winter kan bak en die machine kan loop. Bry a whip vir die beste, maar
+                beplan vir die ergste, met die koste van kragopwekker en sompanelen wat a groet hap uit enige
+                mondelike vind nee.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>klein, beter, voel</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>sus, klein, voel</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>boeke, mark, ver</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="3">
+      <text>Die jongste aanpassing in die brandstofpryse aangebied de welkome, hoewel geringe verligting vir
+                suid-Afrikaanse verbruikers in beseerdes. A klein afname in beide petrol en diesel is aangekondig.
+                Hoefzakelijk te dankdag aan een sense versterking van die rand en laat internasionale olieprys. Vervoer
+                en logistiek maatskapeien, wat die integrale deel van die economieforum, sou hier die daling verwelkom,
+                aangesien dit op bedryfskoste is onmiddellik beïnvloed. Analiste waardasie by dat wisselvalligheid in die
+                wêreld en plaaslike ekonomiese druk hier die positiewe tendens vannag kan omgee.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>tendens, plaaslike, ekonomiese</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, internasionale, ekonomiese</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>ekonomiese, internasionale, tendens</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="4">
+      <text>Als jy jou oë op die JSE hou, sou jy weet dit is onstabiel op die moeilik. Die mark hier die laatste
+                paar weke se op en afdraande gehad, grootliks gedring hier die internasionale mark bewegings en
+                plaaslike eens. Hobron-aandele kril a boeke hupstoot dank se beter commodities pryse, maar die klein
+                handelssector voel nog die knyp van die verbruikers wat al geld degelijk moet bestry. Vir die van ons
+                met a boeke hup bel, is die vraag, so as altyd, is dit nou die tyd om te koop, te verkope of nou net
+                vas te byt en te whip ver moker waters?
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>klein, beter, voel</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>sus, klein, voel</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>boeke, mark, ver</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="5">
+      <text>Die klein-, medium- en mikro-sakeondernemings pyl die jeugraad van werkskepping in suid-Afrika. tog
+                staan hier die onderneming steeds enorme strijko-blok in die gesig. A onlangse verslag die die
+                Kleinsake Instituut beklemd toon dat bureaucratiese rompslomp en toegang tot bewapening die grootste
+                strijko-blok vergroei bly. terwyl die regeringsnieuwe leningschema vir kleinbeesigheer lofwaardig
+                is, voer belanghebbende aan dat die implementering en toeganklikheid daarvan kritiek sou wees. sonder a
+                wesentlike verandering in die regulatoriese omloop, loop talle beloofde kleinbeesigheer die gevaar
+                om te tasting neer of selfs te mislik.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>kleinbeesigheer, huis, ver</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, internasionale, ekonomiese</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>boeke, mark, ver</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="6">
+      <text>Dit voel as of maal dies ta a plan moet maak om die maan dye te kom en dit wyse in hoe ons ons geld
+                spandeer. Data van groot klein handelaars wyse dat mense meer fokus op die noodzakelijke herrie, dus
+                kos, vervoer en data. Liksherde en treiter word eerste te gesny. Wat interessant is, is die groei in
+                aanlyn inkopies verkrijgde nieuwsvare. Dit lyk as of gerief en die vermoë om pryse te vergelyk,
+                sonder om jou huis te verlaat. Swaarder weg. Verbeesigere is die boodskap duidelik. Waarde en gerief is
+                wat die suid-Afrikaanse verbruiker nou soek.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>klein, beter, voel</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>data, wyse, gerief</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>data, gerief, wyse</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="7">
+      <text>Die amptelike werkloosheid syfer bly op een kommerwekkende hose vlak, met jeug werkloosheid wat a
+                besonderse dringende krisis verteenwoordig. Hierdie statistiek is nie net a sosio-ekonomiese tragedie
+                nie, maar het ook a direk inpak op bezigheidsgroei. A kruipende pool van verbruikers met besteebare
+                inkomste bepraat die mark vergoedende en dienste. Verder scripta die hose werkloosheid a omloop van
+                sosiale onstabiliteit wat bezigheidsvertrouwe en langtermyn beledigings negatief kan beïnvloed.
+                Programme wat vaardigheidsontwikkeling en entrepreneurskap bevorder, word as benodig beskou om
+                hierdie cyclist te breek.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>werkloosheid, syfer, hose</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, internasionale, ekonomiese</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, hose, omloop</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="8">
+      <text>Soe, die reserwebank het besield om die rente koers onveranderd te laat. Geen groot verassing daar
+                nie. Ver die wat skuld het op jou huis of motor is dit in sig van verligting dat dinge nie nou duurder
+                word nie. Maar, ver die ekonomie as a geheel is dit te teken dat ons nog nie uit die gevaarsone is nie.
+                Die bank probeer inflasie in doem hou sonder om die boeke ekonomiese groei wat ons het, jyotemal te
+                verwurg. Ammo wag nou om te sien wat die groot internasionale banke doen, want dit sal waarskynlik
+                die volgende skuif hier by die huis beïnvloed.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>kleinbeesigheer, huis, ver</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>ver, data, huis</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>boeke, mark, ver</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="9">
+      <text>Ten spyte van die veel ekonomiese uitdagings is daar een merkbare toename in beleggings in
+                suid-Frikassee groeneconomie. internasionale en plaaslike fondse word toenemend paneer op hersienbare
+                energieprojekte, veral son en windkrag. Hier die tendens word gedryf, dier beide die noodzakelijkeit
+                om die lande koolstofvoetsboer te verminder en die kommersiële volhoubaarheid van alternatiewe
+                energiebronne in die lig van stygende elektriciteitskostes. Hier die groene revolusie hou die belofte
+                in van nie net een meer verhoogbare toekoms nie, maar ook die scheeping van broodnodige nuwe
+                werkgeleenthede in een vinnige ontwikkelende sektore.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>tendens, plaaslike, ekonomiese</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>werkloosheid, internasionale, ekonomiese</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>ekonomiese, internasionale, tendens</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="10">
+      <text>almal praat oor handmatige intelligensie. Gaan dit ons werk stil of gaan dit ons leewans
+                makliker maak? Hier in suid-Afrika begin bezighers nou ernstig kyk hoe hulle dit kan inspan. Van
+                kletspotten wat kliententien saneer tot stelsels wat data ontleed om beter besliste te neem. Die
+                moindelikere is endloos. Die groot vroeg is hoe ons ons arbeidsmag voorberei ver hierdie verandering.
+                Dat gaan nie net daaroor om pose te beskarren mee, maar om mens die vaardighede te gee om same hier die
+                nuwe tegnologie te werk. Dat is een geskraap wat elke werk, groot of klein, nou moet begin voer.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>klein, beter, voel</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>ver, data, huis</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>boeke, mark, ver</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>-4.4896</umass>
+        <npmi>0.2079</npmi>
+        <coherence_value>0.7905</coherence_value>
+      </model><model name="LDA">
+        <umass>-4.7457</umass>
+        <npmi>-0.0850</npmi>
+        <coherence_value>0.7358</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.4381</umass>
+        <npmi>-0.1360</npmi>
+        <coherence_value>0.9522</coherence_value>
+      </model>
+    </model_coherence>
+  </besigheid_trans><diere_trans>
+    <topicblock id="11">
+      <text>Dit gaan nie goed met die liefdes in Afrika nie. Daar is alle minder van hulle oer. veral omdat
+                mense luise afbreek. organisasies probeer hard om hulle te beskerm en seker te maak daar is genoeg plek
+                vir hulle om te lewe.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>probeer, buie, afbreek</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>probeer, kril, plek</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>plek, goed, lewe</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="12">
+      <text>Diepe wijnum by die kits kry swaar. Die oseaan word warmer en daar is minder kies vir hulle.
+                Wetenskaplike is werksaam om te verstaan wat aangaan en u ons hierdie uilike volks kan help.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>aangaan, wijnum kits, ken</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kies, buie, niere</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>kies, aangaan, volks</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="13">
+      <text>Daar is baar ondanks die katte, by dierenskeilings wat die niewee huis soek. Hèr die plek is vol en
+                hulle hoop mense sal kom aanneme so dat die dier een tweede kans kan kril.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>diere, aanneme, tuur</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>probeer, kril, plek</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>kril, leer probleem, gemoor</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="14">
+      <text>Navorsers het niere manier vind om olifante te volg met die spesiaal tegnologie. Dit help hulle om
+                te sien waar die olifant geweb en hoe hulle veilig kan bly. Weg van mense wat hulle wil siermak.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>dolfyne, volg spesiaal, olifant geweb</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>diere, goed, stede</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>niere, wys, wys dierendagen</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="15">
+      <text>Goeie nuus vir die see, meer dolfyne word naby ons kus gesien. Dit wys al dat die see gesonder
+                word en hulle kry genoeg vis om te et.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>dolfyne, volg spesiaal, olifant geweb</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>dolfyne, goeie, nuus</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>niere, wys, wys dierendagen</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="16">
+      <text>Wetenskaplik is het ek klomp niere parasities in serie en myt ontdek. Dit is opwindend van het wys
+                ons hoe baie dierendagen nog is wat ons nie ken nie. En hoe kom dit belangrik is om die natuur te
+                bewaar.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>aangaan, wijnum kits, ken</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kies, buie, niere</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>niere, wys, wys dierendagen</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="17">
+      <text>Ons is buie nodig, hulle hou plante om te groei so dat ons kies kan ee. Maar buie straf uit en mens
+                is bekommerd oor wat dit vir ons gaan beteken. Ons wil meer bome plant om hulle te help.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>probeer, buie, afbreek</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kies, buie, niere</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>kies, aangaan, volks</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="18">
+      <text>De skoorsvalk wat langkloof is sy syne is is weer opgemerk, dit gehoop dat ons nog baie dierendoorbijt
+                het wat oorleef, sale al dun kon sel is weg.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>diere, aanneme, tuur</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kies, buie, niere</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>kies, aangaan, volks</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="19">
+      <text>Alle meer mens in stede kry tuur diere. Daar is nou meer parke en plekke waar mens al al hond
+                kan gaan stap wat goed is vir die diere en hulle eienaars.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>diere, aanneme, tuur</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>diere, goed, stede</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>plek, goed, lewe</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="20">
+      <text>Soms kom ape uit die bos en maak piek gemoor in die dorpies. mense probeer maniere kril om
+                samend met hulle te leer, sonder dat die probleem veroorsaak verander.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>probeer, buie, afbreek</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>probeer, kril, plek</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>kril, leer probleem, gemoor</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.4405</coherence_value>
+      </model><model name="LDA">
+        <umass>-4.5680</umass>
+        <npmi>0.4101</npmi>
+        <coherence_value>0.8047</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.6354</umass>
+        <npmi>0.4102</npmi>
+        <coherence_value>0.9624</coherence_value>
+      </model>
+    </model_coherence>
+  </diere_trans><inter_nuus_trans>
+    <topicblock id="21">
+      <text>Die wêreld hou asem op na mate spanning tussen Rusland en Kraaines weer toegeval jy. In die verby week
+                het verskille internasionale organisasies in slyt in die Verenigde Nasies en die Europese Unie
+                komkommer uitgespreek oor die verskerping van militêr optrede nabrie oostelike grens van Kraaines.
+                Burgers in Kies het om eindomlichtende dorpe leef en vrees vervaardiger konflik terwyl diplomatieke
+                pogings van Geeneen voortgaan om een volhoubare oplossing te vind. Intussen het odyssee mense luise
+                dip en is daar kommer oor die militêr nood met voedsel en medisyne voorhoede wat begin min raak.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>verenigde nasies, reguit, nasies</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>spanning, grens, kraaines</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kraaines, militêr, europese unie</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="22">
+      <text>In suid-Amerika woed die debat oor die beskerming van die amasone woude steeds voort. Die Brazilianse
+                regering het pas nuwe wetaanvaard wat beleggings in volhoubare bosbou en wetenskaplike navorsing sal
+                verryk. Maar omgevingsgroepen waarschiet dat stropery en onwettige ontbossing steeds op rekordvlakke
+                plaas van. Plaaslike gemeenskap in die amasone gebiede rapportering dat hulle lewe maatskappy
+                word, terwyl die gewerldsgemeenskap druk op die regering plaas om die ekosisteem te beskerm. Intussen
+                grif veldwerkers klip en internasionale fondse om beskadigde aarde te herstel en biodiversiteit te
+                bevorder.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, plaas, gemeenskap</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>internasionale, lande, afrika</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>plaas, amasone, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="23">
+      <text>De ekonomiese gevolg van inflasie en wisselvallige mark is wêreldwyd syspaar. De Amerikaanse
+                federale reservaat het rentekoerse vir die derde keer van kar verhoog in poging om die vinnige
+                stigtinge inflasie te dek, terwyl Europa met die energiekrisis woordspel weens onstabiele gasgoloude uit
+                Rusland. In Afrika het verskille lande al eie uitdaging met voedselsekerheid en dalende wawiele waarde,
+                internasionale finansiële instellings, sus die IMF, bied lenings en technikon toestand aan om
+                ekonomiese stabiliteit te bevord. Maar aromoeun bly, a groot bekommernis, verboude huishoudings.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>ekonomiese, poging, inflasie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>internasionale, lande, afrika</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>lande, afrika, ekonomiese</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="24">
+      <text>miljoene mens in regdeur Asië het die verby maand swaar weerstoestande ervaar met oorstromings,
+                tyfrona en het toegolwe wat gemeenskap in lande als Indra, Bangladesh en die Filistyne getref het. Die
+                Verenigde volke en anderhulporganisaties het arms verlichtingsspannen ontplooi om toekoms, water en
+                medisyne sorg die eerste geoefende te verslaaf. Intussen foute die klimaatwetenskaplik is dat syklep
+                uiters weerstoestande waar skandelik meer gereeld sal voorkom om normaal te klief maats verander
+                versnel. Regering word aangemoedig om meer verleibare infrasektier en ramsbestiersmateriaals te
+                implementeer.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, plaas, gemeenskap</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>weerstoestande, miljoene, internasionale</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>weerstoestande, maand, implementeer</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="25">
+      <text>Démagraciecrisis in Europa verheug sensitief onderwerp normaal te tydsone vlugtelinge steeds boog om
+                die Molle-Lande seer oorgesteek op sy klowe beter lewe. Regerings in Italië, Griekeland en Spanje werk
+                saam met die Europese Unie om grensbeheer te versterk en die manitaire ondersteuning aan immigrante te
+                bied. Daar is achtersteerskommer oor die hantering van kinders sonder begeleiding en die oorvol
+                aanhuidingsfaciliteite. Intussen pleit reguit groepe vir een meer mens en gesamentlike benadering
+                tot immigrasiebeleid in die streek.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>verenigde nasies, reguit, nasies</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>europese, unie, bied</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kraaines, militêr, europese unie</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="26">
+      <text>Die vaste land van Afrika beskou op volle teken van demokratiese vooruitgang, veral in lande such as
+                Nigeria waar onlangse verkiesings grotendeels vredsam verloop het. internasionale waarnemings pres die
+                derzuchtigheid van die verkiesingsproces, hoewel daar steeds versorgde uit oor die politiek en geweld en
+                mis toegang tot stemlokale in die landskap gebiede. Afrika in lande werksaam om demokratiese
+                praktika en menselrechte te bevorder, terwyl buitelandse duranteers finansiële en logistieke
+                ondersteuning bied om regeringsdoeltreffende te verbeter.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>land, uitdagings, beskou</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>internasionale, lande, afrika</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>lande, afrika, ekonomiese</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="27">
+      <text>Die konflik in die Gazastrook na die afgesluk bewerk weer opslag gemaak naar het niere geval tussen
+                Israelese krag en Palestijnse groepe uitgerek het. Die Amerikaanse staatsdepartement en Europese
+                Unie het beide a beroep op kalmte gedun en vraag vir onmiddelike vredesonderhandeling. Ingoser van Galant
+                vertel dat daelikse uitdagings, syswatertekorten en beskadigde infrastruktuur, terwyl hulporganisasies
+                sukkel om basisse dienste aan die bevolking te lewer. Die wêreld hou hierdie streek einde op met hoop
+                om blywende skietstilstand.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>land, uitdagings, beskou</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>internasionale, lande, afrika</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>kraaines, militêr, europese unie</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="28">
+      <text>internasionale sportsbeerhe in die verby naweek miljoene kykers gekook, met die Olympische
+                Spleen in Paribus as hoogtepunt. Suid-afrikaanse atlete het die land grootgemaak met verskille medalje in
+                swem en atletiek, terwyl die openingseremonie wyd beskou is as een van die mees innoverende tot
+                dusver. Organiseerders probleem toegeval die belangrijkeid van internasionale samewerking in sport as
+                bouer tussen culteer, ondanks logistiekent, uitdagings en gesondheidsmaatreëls wat steeds nag
+                komend word.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>land, uitdagings, beskou</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>weerstoestande, miljoene, internasionale</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>lande, afrika, ekonomiese</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="29">
+      <text>Noord-Amerika hak die VSA in Kanada een nuwe handelsooreenkoms ononderteken, wat poog om tariewe en
+                sleetelproducten se stal en moordtoesuritaille te verlaag. Die ooreenkoms is deel van een poging om
+                ekonomiese groei aan te wakker en belittareale verhoudings te versterk na jare van spanning oor
+                handelsbeleid. landbouprodukte aan beide kante van die grens verwelkom die skuif, maar sommige
+                naiwereren, woorsky dat verdere aanpassingsnurig is om regverdige speelveld te verseker.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>ekonomiese, poging, inflasie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>spanning, grens, kraaines</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>lande, afrika, ekonomiese</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="30">
+      <text>Die beskerming van minderhuisgroepen en mensrechten is steeds een fokus in internasionale
+                diplomasie. Die Verenigde Nasies het onlangs een resolusie aanvaar wat lidlande aanmoedig stappend te
+                neem ten diskriminasie en vervolging van etniese en goddienstelijke minderhede. In lande, sus Myanmar en
+                Afghanistan, vlei reguit groepe bekommer oor die lot van kwetsbare bevolkings. Een internasionale druk
+                neem toe om hervorming te implementeer en onregverdige beleid te hersien. In die kwessies staan
+                ventraal en verscheihe werweldiere forums en konferensies hierdie maand.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>verenigde nasies, reguit, nasies</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>internasionale, lande, afrika</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>weerstoestande, maand, implementeer</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>-0.4621</umass>
+        <npmi>-0.0862</npmi>
+        <coherence_value>0.9565</coherence_value>
+      </model><model name="LDA">
+        <umass>-2.6742</umass>
+        <npmi>0.2122</npmi>
+        <coherence_value>0.7680</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.2310</umass>
+        <npmi>0.0932</npmi>
+        <coherence_value>0.9586</coherence_value>
+      </model>
+    </model_coherence>
+  </inter_nuus_trans><karre_trans>
+    <topicblock id="31">
+      <text>mense in suid-Afrika klaar dat nuwe karre die uitdoof al bije kos. Dat maak het moeilik voor bije
+                om e splinte nuwe oortuig te koop.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>bije, moeilik bije, beskerm</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>bije, uitdoof, koop</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>bije, koop, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="32">
+      <text>Die prys van petrol is weer een goeie kopie. Dit maak rei duurder en mens soek nou na karre wat
+                minder brandstof gebruik.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>soek, goed, goeie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>gebruik, karre, petrol</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>petrol, gebruik, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="33">
+      <text>Alhoewel meer elektriseer karre hier is, hulle gebruik nie petrol nie, maar is nogal dier. Gierig
+                hierin kyk hoe hulle dit goed koop kan maak.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>goed koop, gierig kyk, kyk goed</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>gebruik, karre, petrol</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>petrol, gebruik, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="34">
+      <text>Omdat niere karredier is, verkoop tweedehandse karre boeie goed. mense soek goeie, gebruikte
+                voertuig wat hulle kan bekostig.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>soek, goed, goeie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>karre, goed, soms</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>goed, boeie, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="35">
+      <text>Die kakaofabriek hier in suid-Afrika is belangrik. Hele maak karre voor ons en voor anderland. Wat
+                help om werk te skep voor boeie mense.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>goed koop, gierig kyk, kyk goed</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>karre, goed, soms</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>goed, boeie, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="36">
+      <text>Soms is dit moeilik om onderdele voor karre te kry. Dit beteken karre staan langer in die
+                werkwinkel as iets breek.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>soms, bacchies, plasie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>karre, goed, soms</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>karre, soms, staan langer</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="37">
+      <text>Die nuwe kar wat gemaak word is al goeie veilige. Hulle het nuwe tegnologie wat help om
+                ongelukkig te voorkom en mens te beskerm.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>bije, moeilik bije, beskerm</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>goeie, ongelukkig, beskerm</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>petrol, gebruik, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="38">
+      <text>Bacchies is styrks baie gewild in suid-Afrika. mense gebreekte dit vir werk en vir plasie.</text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>soms, bacchies, plasie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>gebruik, karre, petrol</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>bije, koop, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="39">
+      <text>Dit is een uitdaging om karre uit die fabriek na die handelaars te ontvang. Daar is soms probleem met
+                treine en vragmotors.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>soms, bacchies, plasie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>karre, goed, soms</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>karre, soms, staan langer</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="40">
+      <text>Arak word al hoor slimme, hulle het nou goed soos grootskeeps, GAS en ander snuffies wat die rit
+                lekkerder maak.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>soek, goed, goeie</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>karre, goed, soms</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>goed, boeie, karre</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>nan</coherence_value>
+      </model><model name="LDA">
+        <umass>-2.6985</umass>
+        <npmi>0.3986</npmi>
+        <coherence_value>0.7999</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.4385</umass>
+        <npmi>0.2954</npmi>
+        <coherence_value>0.8176</coherence_value>
+      </model>
+    </model_coherence>
+  </karre_trans><politiek_trans>
+    <topicblock id="41">
+      <text>Daar is groot opgewondenheid in die land, want daar is pas een nuwe koalisie in die parlement
+                aangekondig. Die partisie sê hulle gaan naar Saamwerk om waardeloosheid te probeer afneem en korrupsie
+                vas te vat. Sommige mense is hoopvol, maar ander woon of almal rechthig Naas sal trek.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>plakkate, partisie, stem</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>apie, ver, lang</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>almal, hoop, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="42">
+      <text>Hoeste die die president, het toespraak hou oor belasting. Huid belone, daar sal nie groot
+                verwoegingswees nie, maar mens is tyes bekommerd waar pryse wat styg. En die staatssie sakemanne,
+                hulle hoop die regering gaan klein, wees here meer ondersteek wat almal voel die ekonomiese druk.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, luister, tyes</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>regering, probeer, deersuchtigheid</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>almal, hoop, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="43">
+      <text>A bekende opposisieleier is vandag in die nies, omdat sa kritiek geleer het op die niere wet oor
+                waterbescherming. Sa sê dus nodig, maar sa dink nie die regering luister na gemeenskap wat gerook word
+                nie. Nog die ander kant sê die minister kry almoe kans om insette te lewer.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>regering, luister, tyes</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>apie, ver, lang</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>vandag, nies, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="44">
+      <text>In die dorp het die munisipaliteit nou weer vergaar oor die apie wat vol gaan is. Die burgemeester sê
+                daar is geld, maar die kontrasteer vaat lang. Baaninwoners is moeg ver belowe is. Al sê elk jaar, word
+                al die saaltuie en die apie bly nie te slag.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, apie, politisering biertwachte</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>apie, ver, lang</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, dorp</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="45">
+      <text>Die verkiesing kom oor een paar maande en die partisie begin plakkate oprit en by skool toe spraak
+                hou. Partijmense is opgewonde en anders sê hulle is klaarbesluit verwe hulle gaan stem. Bui jongmense
+                sê hulle voel hulle stem mag nie een verskil nie, maar organisasies toegelaat hulle aan om betrokke te
+                raak.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>plakkate, partisie, stem</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>plakkate, stem, voel</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>stem, plakkate, partisie</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="46">
+      <text>Daar was een betoging by die staalstraatsgebouw oor hoor elektriciteitsprijs. Paar mens sê, hulle
+                kan nie die nie wat daar die webbekoos nie. Die burgemeester sê, hulle probeer met eiskom onderhandel.
+                Maar dit is moeilik. Intussen voor bewoordings, net voor meer deersuchtigheid.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, apie, politisering biertwachte</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>regering, probeer, deersuchtigheid</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, dorp</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="47">
+      <text>Die regering het vandag in die Wip land aangekondig om misdaad in die stad te beveg. Daar gaan meer
+                politisering wees en a paar biertwachte is ook nou betrek. Sommige inwoners sê dat is een goeie begin,
+                maar hulle hoop dit is nie net voor die nies nie.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>burgemeester, apie, politisering biertwachte</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>vandag, regering, nies</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>vandag, nies, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="48">
+      <text>Na onlangse waarmaak oor die grondbesit is mense beskierig oor wat volgende gaan gebeur. Die minister
+                sê die regering wil sekermaak bybelkring a reisvaardige kans, maar boer sê hulle is onseker oor hulle
+                plaas is die toekoms. Dit verheug een warm gesprekspunt op die dorp.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, warm</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>regering, probeer, deersuchtigheid</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, dorp</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="49">
+      <text>Parlamentsliera het gister lang gedebatteer oor die gesondheidsorg. Die minister beloof dat meer
+                klinieke gaan penmaat en dat die diens gaan verbeter. mense in die platteland sê hulle open dat dit
+                gebeur, want vandag moet hulle ver rei om dokter te sê.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, warm</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>vandag, regering, nies</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>gebeur, minister, dorp</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="50">
+      <text>Die posisie hou vandag een groot vergadering in die voorstad. Hulle sê, hulle wil die regerings
+                planne uitdaag en hulle eie oplossingsvoorspel. spel Lere het plakkate en tendense gedrag en daar is
+                een reguit huisatmosfeer. Al is daar ook a paar teenstanders wat kon beproewing.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>plakkate, partisie, stem</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>plakkate, stem, voel</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>vandag, nies, regering</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>-2.8376</umass>
+        <npmi>0.0917</npmi>
+        <coherence_value>0.8629</coherence_value>
+      </model><model name="LDA">
+        <umass>-4.7990</umass>
+        <npmi>0.1027</npmi>
+        <coherence_value>0.7915</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.4381</umass>
+        <npmi>0.0774</npmi>
+        <coherence_value>0.9027</coherence_value>
+      </model>
+    </model_coherence>
+  </politiek_trans><skool_trans>
+    <topicblock id="51">
+      <text>suid-Afrikaanse skole probeer alia meer om kinders bal eie moedertaal te leer, ver alles hulle klein
+                is, na voor syn wys dat het kinders help om beter te leer en slim te word.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>leer, kinders, knol</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>leer, kinders, bal</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skole</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="52">
+      <text>Daar is nie ons aanlyn skool in Afrikaans wat volgende jaar begin. Dit is giet vir gesêne wat al
+                geneesbaar haai wil smorens. Én dit wese technieelikie help mot lief.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>skool, afrikaans, aanlyn</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, skool, taal</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>afrikaans, knol, myl lees</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="53">
+      <text>Baie leereis in Syde Afrikaans sukkel knol myl lees in Scriba, verallie dit werd het al soos
+                Afrikaans, en daar weiß eis arabier noem ma nie treffend om dit te help, maar daar is knol baie einde
+                ochings.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>leer, kinders, knol</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, skool, taal</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>afrikaans, knol, myl lees</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="54">
+      <text>Die regering kyk nou weer na hoe ons onderwysers opkeil. Lelle wil sikermook ons het genieë goeie
+                onderwysers, veral vir die jongste kinders en voor vakkursus, wetenskap en winkende.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>onderwysers, mere, wetenskap winkende</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>onderwysers, leer, kinders</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>skool, regering, veral</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="55">
+      <text>Sommige staatskole sout Afrika nyd reguit syd, seks Pietras van die dier private skole. Dat wees dat
+                my die harde werk in Kurang daar wees is ons gekners ver kan kom.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrika, veroorsaak soms, boeke drama</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, skool, kinders</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skole</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="56">
+      <text>Geld voor skool verheug grot kwessie. Die regering probeer om geldraagvaarig te versprei, veral voor
+                arme skool en wat sickle om alles te koop wat hulle nodig heet.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>skool, afrikaans, aanlyn</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, skool, kinders</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>skool, regering, veral</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="57">
+      <text>A grutniewe private universiteit in Afrikaans word gebou. Dit sal meer geleen hierdie bied vir
+                studente om in Afrikaans te studeer en die taal op die toekoms in oor en naar huis verskeie.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>skool, afrikaans, aanlyn</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, skool, taal</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>afrikaans, knol, myl lees</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="58">
+      <text>Mere en meer schuil kik gebruik nou technliefie nie klas, sê se tablet en reeknoors. Dat mok leer
+                meer breed en gekoeneersdoegang tot baar inligting, al is daar nog eidavings mydoegang.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>onderwysers, mere, wetenskap winkende</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>0</assigned_topic>
+          <topic_label>onderwysers, leer, kinders</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>leer, baar, mok</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="59">
+      <text>Die regering wil die weet van ander oor skool inlatings en taal beleid. Dit veroorsaak soms boeke
+                drama, want mens is bekommerd oor wat het vir Afrikaanse schooles sal beteken.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrika, veroorsaak soms, boeke drama</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>3</assigned_topic>
+          <topic_label>afrikaans, skool, taal</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>skool, regering, veral</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><topicblock id="60">
+      <text>Daar is baar nie wie die is waarom u skotskar nie glim te verbeter. Dat kan oor wat kinders leer en
+                hoe hulle net leer, sale talle rechensvrietekomst en alles wat die wêreld van die dame.
+            </text>
+      <topic_assignments>
+        <model name="BER">
+          <assigned_topic>2</assigned_topic>
+          <topic_label>leer, kinders, knol</topic_label>
+        </model><model name="LDA">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, skool, kinders</topic_label>
+        </model><model name="NMF">
+          <assigned_topic>1</assigned_topic>
+          <topic_label>leer, kinders, skole</topic_label>
+        </model>
+      </topic_assignments>
+    </topicblock><model_coherence>
+      <model name="BER">
+        <umass>nan</umass>
+        <npmi>nan</npmi>
+        <coherence_value>0.5650</coherence_value>
+      </model><model name="LDA">
+        <umass>-7.0743</umass>
+        <npmi>0.0077</npmi>
+        <coherence_value>0.6411</coherence_value>
+      </model><model name="NMF">
+        <umass>-0.8338</umass>
+        <npmi>0.3834</npmi>
+        <coherence_value>0.9227</coherence_value>
+      </model>
+    </model_coherence>
+  </skool_trans><overall_summary>
+    <model name="BER">
+      <umass>
+        <avg>-2.5965</avg>
+        <stdev>1.6531</stdev>
+        <min>-4.4896</min>
+        <max>-0.4621</max>
+      </umass><npmi>
+        <avg>0.0711</avg>
+        <stdev>0.1209</stdev>
+        <min>-0.0862</min>
+        <max>0.2079</max>
+      </npmi><coherence_value>
+        <avg>0.7231</avg>
+        <stdev>0.1915</stdev>
+        <min>0.4405</min>
+        <max>0.9565</max>
+      </coherence_value>
+    </model><model name="LDA">
+      <umass>
+        <avg>-4.4266</avg>
+        <stdev>1.4904</stdev>
+        <min>-7.0743</min>
+        <max>-2.6742</max>
+      </umass><npmi>
+        <avg>0.1744</avg>
+        <stdev>0.1859</stdev>
+        <min>-0.0850</min>
+        <max>0.4101</max>
+      </npmi><coherence_value>
+        <avg>0.7568</avg>
+        <stdev>0.0567</stdev>
+        <min>0.6411</min>
+        <max>0.8047</max>
+      </coherence_value>
+    </model><model name="NMF">
+      <umass>
+        <avg>-0.5025</avg>
+        <stdev>0.1886</stdev>
+        <min>-0.8338</min>
+        <max>-0.2310</max>
+      </umass><npmi>
+        <avg>0.1873</avg>
+        <stdev>0.1938</stdev>
+        <min>-0.1360</min>
+        <max>0.4102</max>
+      </npmi><coherence_value>
+        <avg>0.9194</avg>
+        <stdev>0.0502</stdev>
+        <min>0.8176</min>
+        <max>0.9624</max>
+      </coherence_value>
+    </model>
+  </overall_summary>
+</transcripts>
