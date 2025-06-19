@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcripts>
+  <file name="International1_with_reversed_noise.wav">
+    <wer>0.462</wer>
+    <cer>0.199</cer>
+    <levenshtein>565</levenshtein>
+    <ref>Die wêreld hou asem op namate spanning tussen Rusland en Oekraïne weer toeneem. In die afgelope week het verskeie internasionale organisasies, insluitend die Verenigde Nasies en die Europese Unie, hul kommer uitgespreek oor die verskerping van militêre optrede naby die oostelike grens van Oekraïne. Burgers in Kiev en omliggende dorpe leef in vrees vir verdere konflik, terwyl diplomatieke pogings in Genève voortgaan om ’n volhoubare oplossing te vind. Intussen het duisende mense hul huise verlaat en is daar kommer oor humanitêre nood, met voedsel- en mediese voorrade wat begin min raak.</ref>
+    <hypo>Die wereld hou asem op na mate spannings tussen Rusland en
+        Oekraïne weer toe neem. In die afgelopen weel het verskye internationale organisaties, insluitend die vereenigde
+        maasjes en Erebusie, halkommer uitgesprek oor die verwerping van militare optreden na by die oostelike grens van
+        Oekraïne. Burgers in Kiev en omliggende Dorke leef aan vrees vir verdere konvertelem, terwyl diplomatike boegens
+        in Geneva voortgaan om een volhoudbare oplossing te vind. Intussen het duisende mensel huise verloor en is daar
+        kommer oor die militare noord met voedsel en medische voorwaarde wat begin windelik.</hypo>
+  </file>
+</transcripts>

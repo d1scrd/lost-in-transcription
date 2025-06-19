@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcripts>
+  <block id="1">
+    <file name="text">
+      <wer>0.417</wer>
+      <cer>0.289</cer>
+      <levenshtein>1208</levenshtein>
+      <ref>Suid-Afrika se ekonomie het onlangs 'n skrale toename getoon, 'n syfer wat weereens die onderliggende broosheid
+            van ons ekonomiese herstel beklemtoon. Volgens die jongste data van Statistieke Suid-Afrika, het die
+            landbousektor wel 'n positiewe bydrae gelewer, maar dit is grootliks teengewerk deur 'n teleurstellende afname
+            in die vervaardigings en mynbousektore. Die regering het sy verbintenis herhaal om strukturele hervormings te
+            versnel wat logistieke knelpunte en energie onsekerheid moet aanspreek, faktore wat kenners meen deurslaggewend
+            is om besigheidsvertroue te herstel en volhoubare groei te stimuleer.</ref>
+      <hypo>Sytafrikase economie het onlangs een skrale toename getoon, a cijfer wat weer eens die onderliggende
+                broesheid van ons economiese herstel beklemtoon. Volgens die jongste data van statistieke Sytafrika het
+                die landbouwsector wel a positieve bijdrage geleweer, maar dit is grotelijk steengewerkt dier het
+                leerstellende afname in die vervaardigings- en mijnbouwsektoren. Die regering het sy verbintenis herhal
+                om structuriele hervormings te versnel wat logistieke knalpinten en energie-onsiekerheid moet aanspreek,
+                factoren wat keners myen die er slaggevend is om beesgeidsvertrouwen te herstel en volhoubare groei te
+                stimuler.</hypo>
+    </file>
+  </block>
+  <block id="2">
+    <file name="text">
+      <wer>0.449</wer>
+      <cer>0.314</cer>
+      <levenshtein>917</levenshtein>
+      <ref>Dit is weer daardie tyd van die jaar. Soos die koue inrol, hou almal asem op oor Eskom se winterplan. Die
+            kragreus sê hulle is beter voorbereid as verlede jaar, met meer opwekkingskapasiteit wat na bewering aanlyn is.
+            Maar vir die gemiddelde kleinsake eienaar voel dit soos 'n dobbelspel. Gaan die ligte aanbly sodat die oonde kan
+            bak en die masjiene kan loop? Baie hoop vir die beste, maar beplan vir die ergste, met die koste van
+            kragopwekkers en sonpanele wat 'n groot hap uit enige moontlike wins neem.</ref>
+      <hypo>Dit is weer daar die tijd van die jaar, sys die koude inrol hou amel asem op oor Eskomse winterplan.
+                Die kraagries sey hulle is beter voorbereid as verleden jaar, met meer opwekkingskapaciteit wat
+                nabewering online is. Maar, vir die gemiddelde klein sake ei en naar voelt het sys a dubbelspel, gaan
+                die lichte aanblij soor die winter kan bak en die machine kan loop. Buy a whip vir die beste, maar
+                beplan vir die ergste, met die koste van kraagopwerkers en sompanelen wat a groet hap uit enige
+                moendelike vins neen.</hypo>
+    </file>
+  </block>
+  <block id="3">
+    <file name="text">
+      <wer>0.512</wer>
+      <cer>0.340</cer>
+      <levenshtein>1103</levenshtein>
+      <ref>Die jongste aanpassing in die brandstofprys bied 'n welkome, hoewel geringe, verligting vir Suid-Afrikaanse
+            verbruikers en besighede. 'n Klein afname in beide petrol en diesel is aangekondig, hoofsaaklik te danke aan 'n
+            effense versterking van die Rand en laer internasionale oliepryse. Vervoer en logistiekmaatskappye, wat 'n
+            integrale deel van die ekonomie vorm, sal hierdie daling verwelkom aangesien dit hul bedryfskostes direk
+            beïnvloed. Analiste waarsku egter dat wisselvalligheid in die wêreld en plaaslike ekonomiese druk hierdie
+            positiewe tendens vinnig kan omkeer.</ref>
+      <hypo>Die jongste aanpassing in die brandstofprijs biedt de welkomne, hoewel geringe verlichting vir
+                Zuid-Afrikaanse verbruikers in besigeerde. A klein afname in beide petro en diesel is aangekondig.
+                Hoefzakelijk te dankan aan een evense versterking van die rand en laar internationale olieprijs. Vervoer
+                en logistiek maatskapeien, wat die integrale deel van die economieforum, zou hier die daling verwelkom,
+                aangezien dit op bedrijfskost is direct beïnvloed. Analyste waarschie achter dat wisselvalligheid in die
+                wereld en plaaslijke economiese druk hier die positieve tendents vannacht kan omgeer.</hypo>
+    </file>
+  </block>
+  <block id="4">
+    <file name="text">
+      <wer>0.537</wer>
+      <cer>0.390</cer>
+      <levenshtein>1012</levenshtein>
+      <ref>As jy jou oë op die JSE hou, sal jy weet dis onstabiel op die oomblik. Die mark het die laaste paar weke sy op
+            en afdraandes gehad, grootliks gedryf deur internasionale markbewegings en plaaslike nuus. Hulpbronaandele kry
+            'n bietjie hupstoot danksy beter kommoditeitspryse, maar die kleinhandelsektor voel nog die knyp van verbruikers
+            wat hul geld deeglik moet bestuur. Vir die van ons met 'n bietjie geld belê, is die vraag soos altyd: is dit nou
+            die tyd om te koop, te verkoop of maar net vas te byt en te hoop vir kalmer waters?</ref>
+      <hypo>Als jy jou oe op die JSE hou, zou jy weet dit is onstabiel op die oemlik. Die mark hier die laatste
+                paar weke se op en afrandes gehad, groteliks gedrijfd hier die internationale mark bewegings en
+                plaaslijke nees. Hobron-aandiele krij a bieke hupstoot dank se beter commodities prijse, maar die klein
+                handelssector voel nog die knijp van die verbruikers wat al geld degelijk moet bestyr. Vyr die van ons
+                met a bieke hup ble, is die vraag, so as altijd, is dit nou die tijd om te koep, te verkoep of nou net
+                vast te bijt en te whip ver komer waters?</hypo>
+    </file>
+  </block>
+  <block id="5">
+    <file name="text">
+      <wer>0.500</wer>
+      <cer>0.327</cer>
+      <levenshtein>733</levenshtein>
+      <ref>Die klein, medium en mikro ondernemingsektor bly die ruggraat van werkskepping in Suid-Afrika, tog staar hierdie
+            ondernemings steeds enorme struikelblokke in die gesig. 'n Onlangse verslag deur die Kleinsake instituut
+            beklemtoon dat burokratiese rompslomp en toegang tot finansiering die grootste struikelblokke vir groei bly.
+            Terwyl die regering se nuwe leningskemas vir kleinbesighede lofwaardig is, voer belanghebbendes aan dat die
+            implementering en toeganklikheid daarvan krities sal wees. Sonder 'n wesenlike verandering in die regulatoriese
+            omgewing, loop talle belowende klein besighede die gevaar om te stagneer of selfs te misluk.</ref>
+      <hypo>Die klein-, medium- en micro-ondernemingssector ply die rugraad van werkskipping in Zuid-Afrika. Toch
+                sta hier die onderneming steeds enorme strijko-blokken in die gesig. A onlangse verslag die die
+                Kleinsake Instituut beklemt toon dat bureaucratiese rompslomp en toegang tot financiering die grootste
+                strijko-blokken vergroei blij. Terwijl die regeringsnieuwe leningschema vir kleinbeesigheer lofwaardig
+                is, voer belanghebende aan dat die implementering en toegankelikheid daarvan kritisch zou wees. Zonder a
+                weesendlikke verandering in die regulatoriese omgeving, loopt talle belovende kleinbeesigheer die gevaar
+                om te tastag neer of zelfs te mislik.</hypo>
+    </file>
+  </block>
+  <block id="6">
+    <file name="text">
+      <wer>0.398</wer>
+      <cer>0.324</cer>
+      <levenshtein>817</levenshtein>
+      <ref>Dit voel asof almal deesdae 'n plan moet maak om die maand deur te kom, en dit wys in hoe ons ons geld spandeer.
+            Data van groot kleinhandelaars wys dat mense meer fokus op die noodsaaklikhede soos kos, vervoer en data.
+            Luukshede en uiteet word eerste gesny. Wat interessant is, is die groei in aanlyn inkopies vir kruideniersware.
+            Dit lyk asof gerief en die vermoë om pryse te vergelyk sonder om jou huis te verlaat, swaarder weeg. Vir
+            besighede is die boodskap duidelik: waarde en gerief is wat die Suid-Afrikaanse verbruiker nou soek.</ref>
+      <hypo>Dit voel as of amal dies da a plan moet maak om die maan dyr te kom en dit wijs in hoe ons ons geld
+                spandeer. Data van groot klein handelaars wijs dat mensen meer focus op die noodzakelijke herris, dus
+                kos, vervoer en data. Liksherde en eitier word eerst te gesnay. Wat interessant is, is die groei in
+                online inkooppies verkrijgde nieuwsvare. Dit lijk as of gerief en die vermoe om prijse te vergeleik,
+                zonder om jou huis te verlaat. Swaarder weg. Verbeesigere is die boodskap duidelik. Waarde en gerief is
+                wat die Zuid-Afrikaanse verbruiker nou soek.</hypo>
+    </file>
+  </block>
+  <block id="7">
+    <file name="text">
+      <wer>0.439</wer>
+      <cer>0.317</cer>
+      <levenshtein>1298</levenshtein>
+      <ref>Die amptelike werkloosheidsyfer bly op 'n kommerwekkende hoë vlak, met jeugwerkloosheid wat 'n besonderse
+            dringende krisis verteenwoordig. Hierdie statistiek is nie net 'n sosio ekonomiese tragedie nie, maar het ook 'n
+            direkte impak op besigheidsgroei. 'n Krimpende poel van verbruikers met besteebare inkomste beperk die mark vir
+            goedere en dienste. Verder skep die hoë werkloosheid 'n omgewing van sosiale onstabiliteit, wat
+            besigheidsvertroue en langtermynbeleggings negatief kan beïnvloed. Programme wat vaardigheidsontwikkeling en
+            entrepreneurskap bevorder, word as noodsaaklik beskou om hierdie siklus te breek.</ref>
+      <hypo>Die amtelike werkloosheid cijfer blij op een kommerwekkende hohe vlak, met jeugd werkloosheid wat a
+                besonderse dringende crisis vertienwoordig. Hierdie statistiek is nie net a socio-economische tragedie
+                nie, maar het ook a directe inpak op bezigheidsgroei. A krimpende pool van verbruikers met besteebare
+                inkomsten bepaart die mark vergoederen en diensten. Verder scaept die hohe werkloosheid a omgeving van
+                sociale onstabiliteit wat bezigheidsvertrouwe en langtermijn beleigings negatief kan beïnvloed.
+                Programme wat vaardigheidsontwikkeling en intrapreneurskap bevorder, word as noodzakelijk beskou om
+                hierdie cyclist te breek.</hypo>
+    </file>
+  </block>
+  <block id="8">
+    <file name="text">
+      <wer>0.297</wer>
+      <cer>0.261</cer>
+      <levenshtein>774</levenshtein>
+      <ref>So, die Reserwebank het besluit om die rentekoers onveranderd te laat. Geen groot verrassing daar nie.
+            Vir die wat skuld het op 'n huis of motor, is dit 'n sug van verligting dat dinge nie nou duurder word nie. Maar
+            vir die ekonomie as geheel, is dit 'n teken dat ons nog nie uit die gevaarsone is nie. Die Bank probeer inflasie
+            in toom hou sonder om die bietjie ekonomiese groei wat ons het, heeltemal te verwurg. Almal wag nou om te sien
+            wat die groot internasionale banke doen, want dit sal waarskynlik die volgende skuif hier by die huis beïnvloed.</ref>
+      <hypo>Soe, die reservebank het besleid om die rente koers onveranderd te laat. Geen groot verassing daar
+                nie. Ver die wat skuld het op uw huis of motor is dit in sig van verlichting dat dinge nie nou dierder
+                word nie. Maar, ver die economie as a geheel is dit te teken dat ons nog nie uit die gevaarzone is nie.
+                Die bank probeer inflatie in toem hou zonder om die bieke economiese groei wat ons het, jyotemal te
+                verwirg. Ammo wacht nou om te sien wat die groot internationale banken doen, want dit sal waarschijnlijk
+                die volgende skuif hier bij die huis beïnvloed.</hypo>
+    </file>
+  </block>
+  <block id="9">
+    <file name="text">
+      <wer>0.472</wer>
+      <cer>0.319</cer>
+      <levenshtein>1095</levenshtein>
+      <ref>Ten spyte van die vele ekonomiese uitdagings, is daar 'n merkbare toename in beleggings in Suid-Afrika se groen
+            ekonomie. Internasionale en plaaslike fondse word toenemend spandeer op hernubare energieprojekte, veral son en
+            windkrag. Hierdie tendens word gedryf deur beide die noodsaaklikheid om die land se koolstofvoetspoor te
+            verminder en die kommersiële lewensvatbaarheid van alternatiewe energiebronne in die lig van stygende
+            elektrisiteitskostes. Hierdie groen revolusie hou die belofte in van nie net 'n meer volhoubare toekoms nie,
+            maar ook die skepping van broodnodige nuwe werkgeleenthede in 'n vinnige ontwikkelende sektor.</ref>
+      <hypo>Ten spijte van die veele economiese uitdagings is daar een merkbare toename in beleggings in
+                Zuid-Afrikase groeneconomie. Internationale en plaaslijke fondsen word toenemens pandeer op herniebare
+                energieprojekte, vooral zon en windkracht. Hier die tendens word gedrijf, dier beide die noodzakelijkeit
+                om die landse koolstofvoetsboer te verminder en die commerciële levensvatbaarheid van alternatieve
+                energiebronne in die lig van stijgende elektriciteitskostes. Hier die groene revolutie hou die belofte
+                in van nie net een meer verhoubare toekomst nie, maar ook die scheeping van broodnodige nieuwe
+                werkgelentheden in een vinnige ontwikkelende sector.</hypo>
+    </file>
+  </block>
+  <block id="10">
+    <file name="text">
+      <wer>0.364</wer>
+      <cer>0.327</cer>
+      <levenshtein>961</levenshtein>
+      <ref>Almal praat oor kunsmatige intelligensie. Gaan dit ons werk steel of gaan dit ons lewens makliker maak? Hier in
+            Suid-Afrika begin besighede nou ernstig kyk hoe hulle dit kan inspan. Van kletsbotte wat kliëntediens hanteer
+            tot stelsels wat data ontleed om beter besluite te neem, die moontlikhede is eindeloos. Die groot vraag is hoe
+            ons ons arbeidsmag voorberei vir hierdie verandering. Dit gaan nie net daaroor om poste te beskerm nie, maar om
+            mense die vaardighede te gee om saam met hierdie nuwe tegnologie te werk. Dis 'n gesprek wat elke besigheid,
+            groot of klein, nou moet begin voer.</ref>
+      <hypo>Allemaal praat oor kindmatige intelligentie. Gaan dit ons werk stil of gaan dit ons leewans
+                makkelijker maak? Hier in Zuid-Afrika begin bezighers nou ernstig kijk hoe hulle dit kan inspan. Van
+                kletspotten wat kliententien santeer tot stelses wat data ontleed om beter beslijt te neem. Die
+                moindelikere is eindloos. Die groot vroeg is hoe ons ons arbeidsmaag voorberei ver hierdie verandering.
+                Dat ga nie net daaroor om posse te beskarren mee, maar om mens die vaardigheden te gee om samet hier die
+                nieuwe technologie te werk. Dat is een gespraak wat elke bezigheid, groot of klein, nou moet begin voer.</hypo>
+    </file>
+  </block>
+  <block id="11">
+    <file name="text">
+      <wer>0.250</wer>
+      <cer>0.273</cer>
+      <levenshtein>201</levenshtein>
+      <ref>Dit gaan nie goed met ons leeus in Afrika nie. Daar is al hoe minder van hulle oor,
+            veral omdat mense hul huise afbreek. Organisasies probeer hard om hulle te beskerm en
+            seker te maak daar is genoeg plek vir hulle om te lewe.</ref>
+      <hypo>Dit gaan nie goed met die liefdes in Afrika nie. Daar is alloe minder van hulle oer. Vooral omdat
+                mensel leise afbreek. Organisaties probeer hard om hulle te beskerm en zeker te maak daar is genoeg plek
+                vir hulle om te lewe.</hypo>
+    </file>
+  </block>
+  <block id="12">
+    <file name="text">
+      <wer>0.471</wer>
+      <cer>0.311</cer>
+      <levenshtein>327</levenshtein>
+      <ref>Die pikkewyne by die kus kry swaar. Die oseaan word warmer, en daar is minder kos
+            vir hulle. Wetenskaplikes werk saam om te verstaan wat aangaan en hoe ons hierdie oulike
+            voëls kan help.</ref>
+      <hypo>Diepke wijnum bij die kist krijg zwaar. Die oceaan wordt warmer en daar is minder koos vir hulle.
+                Wiedenskaplik is werkzaam om te verstaan wat aangaan en u ons hierdie uilike volks kan helpen.</hypo>
+    </file>
+  </block>
+  <block id="13">
+    <file name="text">
+      <wer>0.500</wer>
+      <cer>0.259</cer>
+      <levenshtein>59</levenshtein>
+      <ref>Daar is baie honde en katte by diereskuilings wat 'n nuwe huis soek. Hierdie plekke
+            is vol, en hulle hoop mense sal kom aanneem sodat die diere 'n tweede kans kan kry.</ref>
+      <hypo>Daar is baar ondanks die katte, bij dierenskeilings wat die niewee huis soek. Hèr die plek is vol en
+                hulle hoop mense sal kom aannem so dat die dier een tweede kans kan krij.</hypo>
+    </file>
+  </block>
+  <block id="14">
+    <file name="text">
+      <wer>0.361</wer>
+      <cer>0.271</cer>
+      <levenshtein>164</levenshtein>
+      <ref>Navorsers het 'n nuwe manier gevind om olifante te volg met spesiale tegnologie. Dit
+            help hulle om te sien waar die olifante beweeg en hoe hulle veilig kan bly, weg van
+            mense wat hulle wil seermaak.</ref>
+      <hypo>Nauvoorsers het nieme manier vind om olifanten te volg met die speciale technologie. Dit help hulle om
+                te sien waar die olifant beweg en hoe hulle veilig kan blij. Weg van mensen wat hulle wil siermak.</hypo>
+    </file>
+  </block>
+  <block id="15">
+    <file name="text">
+      <wer>0.357</wer>
+      <cer>0.290</cer>
+      <levenshtein>50</levenshtein>
+      <ref>Goeie nuus vir die see! Meer dolfyne word naby ons kus gesien. Dit wys dalk dat die
+            see gesonder word, en hulle kry genoeg vis om te eet.</ref>
+      <hypo>Goeie nieuws vir die zee, meer dolfijne wordt nabij ons kus gesien. Dit wijst al dat die zee gesonder
+                word en hulle krijg genoeg vis om te et.</hypo>
+    </file>
+  </block>
+  <block id="16">
+    <file name="text">
+      <wer>0.421</wer>
+      <cer>0.377</cer>
+      <levenshtein>303</levenshtein>
+      <ref>Wetenskaplikes het 'n klomp nuwe paddaspesies in die reënwoud ontdek. Dit is
+            opwindend, want dit wys ons hoe baie diere daar nog is wat ons nie ken nie, en hoekom
+            dit belangrik is om die natuur te bewaar.</ref>
+      <hypo>Wetenskaplik is het ek klomp niewe paraspecies in eerie en myd ontdek. Dit is opvindend van het wys
+                ons hoe baie dierendagen nog is wat ons nie ken nie. En hoe kom dit belangryk is om die natuur te
+                bewaar.</hypo>
+    </file>
+  </block>
+  <block id="17">
+    <file name="text">
+      <wer>0.385</wer>
+      <cer>0.303</cer>
+      <levenshtein>330</levenshtein>
+      <ref>Ons het bye nodig! Hulle help plante om te groei sodat ons kos kan hê. Maar bye
+            sterf uit, en mense is bekommerd oor wat dit vir ons gaan beteken. Ons moet meer bome
+            plant om hulle te help.</ref>
+      <hypo>Ons is beie nodig, hulle houd planten om te groei so dat ons koos kan ee. Maar beie starf uit en mens
+                is bekommerd over wat dit vir ons gaan beteken. Ons wil meer bomen plant om hulle te helpen.</hypo>
+    </file>
+  </block>
+  <block id="18">
+    <file name="text">
+      <wer>0.533</wer>
+      <cer>0.371</cer>
+      <levenshtein>77</levenshtein>
+      <ref>'n Skaars valk wat lanklaas gesien is, is weer opgemerk. Dit gee hoop dat ons nog
+            baie diere daar buite het wat oorleef, selfs al dink ons hulle is weg.</ref>
+      <hypo>De skoorsvalk wat langkloos is sy syen is is weer opgemerk, dit gehoop dat ons nog baie dierendoorbijt
+                het wat oorleef, sals al dun kon sel is weg.</hypo>
+    </file>
+  </block>
+  <block id="19">
+    <file name="text">
+      <wer>0.531</wer>
+      <cer>0.325</cer>
+      <levenshtein>74</levenshtein>
+      <ref>Al hoe meer mense in die stede kry troeteldiere. Daar is nou meer parke en plekke
+            waar mense hul honde kan gaan stap, wat goed is vir die diere én die eienaars.</ref>
+      <hypo>Allo meer mens in stede krijg tuurde dieren. Daar is nou meer parken en plekken waar mens al al hond
+                kan gaan stap wat goed is vir die dieren en hulle einaars.</hypo>
+    </file>
+  </block>
+  <block id="20">
+    <file name="text">
+      <wer>0.484</wer>
+      <cer>0.312</cer>
+      <levenshtein>66</levenshtein>
+      <ref>Soms kom ape uit die bos en maak bietjie 'n gemors in die dorpies. Mense probeer
+            maniere kry om saam met hulle te lewe sonder dat dit probleme veroorsaak vir almal.</ref>
+      <hypo>Soms kom apen uit die bos en maak piekje gemoors in die dorpies. Mensen probeer manieren krij om
+                samend met hulle te leer, zonder dat die probleem veroorzaakt verander.</hypo>
+    </file>
+  </block>
+  <block id="21">
+    <file name="text">
+      <wer>0.473</wer>
+      <cer>0.266</cer>
+      <levenshtein>1178</levenshtein>
+      <ref>Die wêreld hou asem op namate spanning tussen Rusland en Oekraïne weer toeneem. In die
+            afgelope week
+            het verskeie internasionale organisasies, insluitend die Verenigde Nasies en die
+            Europese Unie, hul
+            kommer uitgespreek oor die verskerping van militêre optrede naby die oostelike grens van
+            Oekraïne.
+            Burgers in Kiev en omliggende dorpe leef in vrees vir verdere konflik, terwyl
+            diplomatieke pogings
+            in Genève voortgaan om ’n volhoubare oplossing te vind. Intussen het duisende mense hul
+            huise
+            verlaat en is daar kommer oor humanitêre nood, met voedsel- en mediese voorrade wat
+            begin min raak.</ref>
+      <hypo>Die wereld hou asem op na mate spanning tussen Rusland en Ukraine weer toen jy. In die afgelopen week
+                het verskeille internationale organisaties in slijt in die Verenigde Nasies en die Europese Unie
+                hulkommer uitgespreek oor die verskerping van militaire optrede nabrie oostlikke grens van Ukraine.
+                Buigers in Kiev het om eindomlichtende dorpen leef en vrees vervaardare conflict terwijl diplomatieke
+                pogings van Geneve voortgaan om een volhoubare oplosing te vind. Intussen het dyssele mensel luizen
+                verlood en is daar kommer oor die militaire nood met voedsel en medische voorhouder wat begin min raak.</hypo>
+    </file>
+  </block>
+  <block id="22">
+    <file name="text">
+      <wer>0.434</wer>
+      <cer>0.291</cer>
+      <levenshtein>1094</levenshtein>
+      <ref>In Suid-Amerika woed die debat oor die beskerming van die Amasonewoud steeds voort. Die
+            Brasiliaanse
+            regering het pas nuwe wette aanvaar wat beleggings in volhoubare bosbou en wetenskaplike
+            navorsing
+            sal verhoog, maar omgewingsgroepe waarsku dat stropery en onwettige ontbossing steeds op
+            rekordvlakke plaasvind. Plaaslike gemeenskappe in die Amasonegebied rapporteer dat hul
+            lewensbestaan
+            bedreig word, terwyl die wêreldgemeenskap druk op die regering plaas om die ekosisteem
+            te beskerm.
+            Intussen kry veldwerkers steun van internasionale fondse om beskadigde areas te herstel
+            en
+            biodiversiteit te bevorder.</ref>
+      <hypo>In Zuid-Amerika woed die debat oor die beskerming van die Amazone woude steeds voort. Die Brazilianse
+                regering het pas nieuwe wetaanvaard wat beliggings in volhoubare bosbouw en wetenskaplike nafvorsing sal
+                verruik. Maar omgevingsgroepen waarschiet dat stroperei en onwettige ontbosing steeds op recordvlakke
+                plaas van. Plaaslijke gemeenskap in die Amazone gebiede rapporteren dat hulle levensbestaan bedrijf
+                wordt, terwijl die gewerldsgemeenskap druk op die regering plaas om die ecosysteem te beskerm. Intussen
+                gruif veldwerkers stenen en internationale fondsen om beskadigde aarie te herstel en biodiversiteit te
+                bevorder.</hypo>
+    </file>
+  </block>
+  <block id="23">
+    <file name="text">
+      <wer>0.482</wer>
+      <cer>0.286</cer>
+      <levenshtein>1174</levenshtein>
+      <ref>Die ekonomiese gevolge van inflasie en wisselvallige markte is wêreldwyd sigbaar. Die
+            Amerikaanse
+            Federale Reserweraad het rentekoerse vir die derde keer vanjaar verhoog in ’n poging om
+            die vinnig
+            stygende inflasie te tem, terwyl Europa met ’n energiekrisis worstel weens onstabiele
+            gasvoorrade
+            uit Rusland. In Afrika het verskeie lande hul eie uitdagings met voedselsekerheid en
+            dalende
+            valuta-waardes. Internasionale finansiële instellings, soos die IMF, bied lenings en
+            tegniese
+            bystand aan om ekonomiese stabiliteit te bevorder, maar armoede bly ’n groot bekommernis
+            vir baie
+            huishoudings.</ref>
+      <hypo>De economiese gevolg van inflatie en wisselvallige markten is wereldwijd syspaar. De Amerikaanse
+                federale reserveraat het rentekoersen vir die derde keer van jar verhoog in poging om die vinnige
+                stijginge inflatie te tek, terwijl Europa met die energiekrisis woordsel weens onstabele gasgoloude uit
+                Rusland. In Afrika het verskeille lande al eie uitdaging met voedselsekerheid en dalende watiele waarde,
+                internationale financiëlle instellings, sys die IMF, bied leningse en technikse bijstand aan om
+                economiese stabiliteit te bevord. Maar aromoeun blij, a groot bekommernis, verbouwe huishoudings.</hypo>
+    </file>
+  </block>
+  <block id="24">
+    <file name="text">
+      <wer>0.627</wer>
+      <cer>0.255</cer>
+      <levenshtein>1089</levenshtein>
+      <ref>Miljoene mense regoor Asië het die afgelope maand swaar weerstoestande ervaar met
+            oorstromings,
+            tifone en hittegolwe wat gemeenskappe in lande soos Indië, Bangladesj en die Filippyne
+            getref het.
+            Die Verenigde Nasies en ander hulporganisasies het rampverligtingspanne ontplooi om kos,
+            water en
+            mediese sorg aan die ergste getroffenen te verskaf. Intussen waarsku
+            klimaatwetenskaplikes dat sulke
+            ekstreme weerstoestande waarskynlik meer gereeld sal voorkom namate klimaatsverandering
+            versnel.
+            Regerings word aangemoedig om meer volhoubare infrastruktuur en rampbestuursmaatreëls te
+            implementeer.</ref>
+      <hypo>Miljoenen mens in reggeur Asië het die afgelopen maand zwaar weerstoestande ervaar met oorstromings,
+                tyfrona en het toegolwe wat gemeenskap in landes als India, Bangladesh en die Filipijne getref het. Die
+                Verenigde Naties en anderhulporganisaties het rams verlichtingsspannen ontplooi om komst, water en
+                medische zorg die eerste getroefende te verskaaf. Intussen wars die klimaatwetenskaplik is dat sykele
+                extreme weerstoestande waar skajnlik meer gereeld zal voorkom om normaal te klief maats veranderingen
+                versnel. Regering wordt aangemoedig om meer verluibare infrasektier en ramsbestiersmateriaals te
+                implementeer.</hypo>
+    </file>
+  </block>
+  <block id="25">
+    <file name="text">
+      <wer>0.430</wer>
+      <cer>0.322</cer>
+      <levenshtein>1026</levenshtein>
+      <ref>Die migrasiekrisis in Europa bly ’n sensitiewe onderwerp namate duisende vlugtelinge
+            steeds poog om
+            die Middellandse See oor te steek op soek na ’n beter lewe. Regerings in Italië,
+            Griekeland en
+            Spanje werk saam met die Europese Unie om grensbeheer te versterk en humanitêre
+            ondersteuning aan
+            migrante te bied. Daar is egter steeds kommer oor die hantering van kinders sonder
+            begeleiding en
+            oorvol aanhoudingsfasiliteite. Intussen pleit regtegroepe vir ’n meer menslike en
+            gesamentlike
+            benadering tot migrasiebeleid in die streek.</ref>
+      <hypo>Démagraciecrisis in Europa blije sensitieve onderwerp normaal te dysjone vluchtelinge steeds boog om
+                die Mille-Landse seer oortesteek op su knowe beter lewe. Regerings in Italië, Griekeland en Spanje werk
+                samen met die Europese Unie om grensbeheer te versterk en die manitaire ondersteuning aan migranten te
+                bied. Daar is achtersteerskommer oor die hantering van kinders zonder begeleiding en die oorvol
+                aanhuidingsfaciliteite. Intussen pleit rechte groepen vir een meer menselijke en gesamenlikke benadering
+                tot migratiebeleid in die streek.</hypo>
+    </file>
+  </block>
+  <block id="26">
+    <file name="text">
+      <wer>0.571</wer>
+      <cer>0.297</cer>
+      <levenshtein>1104</levenshtein>
+      <ref>Op die vasteland van Afrika is daar hoopvolle tekens van demokratiese vooruitgang, veral
+            in lande
+            soos Nigerië waar onlangse verkiesings grotendeels vreedsaam verloop het. Internasionale
+            waarnemers
+            prys die deursigtigheid van die verkiesingsproses, hoewel daar steeds besorgdheid is oor
+            politieke
+            geweld en ongelyke toegang tot stemlokale in landelike gebiede. Afrika-unielande werk
+            saam om
+            demokratiese praktyke en menseregte te bevorder, terwyl buitelandse donateurs finansiële
+            en
+            logistieke ondersteuning bied om regeringsdoeltreffendheid te verbeter.</ref>
+      <hypo>Die vaste land van Afrika bestou op volle teken van democratiese vooruitgang, vooral in landen such as
+                Nigeria waar onlangse verkiesings grotendeels vredsam verloop het. Internationale warneemings praes die
+                derzuchtigheid van die verkiesingsproces, hoewel daar steeds persorgd uit oor die politiek en geweld en
+                ongelijke toegang tot stemlokale in die landelijke gebiede. Afrika in landen werkzaam om democratiese
+                praktikken en menselrechte te bevorder, terwijl buitenlandse duranteers financieel en logistikke
+                ondersteuning bied om regeringsdoeltreffende te verbeter.</hypo>
+    </file>
+  </block>
+  <block id="27">
+    <file name="text">
+      <wer>0.506</wer>
+      <cer>0.290</cer>
+      <levenshtein>970</levenshtein>
+      <ref>Die konflik in die Gaza-strook het die afgelope week weer opslae gemaak nadat nuwe
+            geweld tussen
+            Israeliese magte en Palestynse groepe uitgebreek het. Die Amerikaanse staatsdepartement
+            en Europese
+            Unie het beide ’n beroep op kalmte gedoen en vra vir onmiddellike vredesonderhandelinge.
+            Inwoners
+            van Gaza vertel van daaglikse uitdagings soos watertekorte en beskadigde infrastruktuur,
+            terwyl
+            hulporganisasies sukkel om basiese dienste aan die bevolking te lewer. Die wêreld hou
+            hierdie streek
+            fyn dop, met hoop op ’n blywende skietstilstand.</ref>
+      <hypo>Die konflik in die Gazastrook na die afgeluk beweek weer opslag gemaakt naar het niewe geval tussen
+                Israelese machte en Palestijnse groepen uitgebrek het. Die Amerikaanse staarsdepartement en Europese
+                Unie het beide a beroep op kalmte gedun en vraag vir onmiddelike vredeonderhandeling. Ingoser van Gazant
+                vertel dat dagelikse uitdagings, syswatertekorten en beskadigde infrastructuur, terwijl hulporganisaties
+                sukkel om basisse diensten aan die bevolking te lever. Die wereld hou hierdie streek feind op met hoop
+                om blijvende skietselstand.</hypo>
+    </file>
+  </block>
+  <block id="28">
+    <file name="text">
+      <wer>0.515</wer>
+      <cer>0.262</cer>
+      <levenshtein>951</levenshtein>
+      <ref>Internasionale sportgebeure het die afgelope naweek miljoene kykers gelok, met die
+            Olimpiese Spele
+            in Parys as hoogtepunt. Suid-Afrikaanse atlete het hul land trots gemaak met verskeie
+            medaljes in
+            swem en atletiek, terwyl die openingseremonie wyd beskou is as een van die mees
+            innoverende tot
+            dusver. Organiseerders beklemtoon die belangrikheid van internasionale samewerking in
+            sport as
+            brugbouer tussen kulture, ondanks logistieke uitdagings en gesondheidsmaatreëls wat
+            steeds nagekom
+            moet word.</ref>
+      <hypo>Internationale sportsbeerhe in die afgelopen naweek miljoenen kijkers gelook, met die Olympische
+                Spelen in Parijs as hoogtepunt. Sydafrikaanse atlete het die land trotsgemaak met verskeille medaille in
+                zwem en atletiek, terwijl die openingsseleminie wijd beskou is as een van die meest inofferende tot
+                disver. Organiseerderes probleem toen die belangrijkeid van internationale samenwerking in sport as
+                brugbouwer tussen culteer, ondanks logistiekent, uitdagings en gezondheidsmaatregels wat steeds nacht
+                komend word.</hypo>
+    </file>
+  </block>
+  <block id="29">
+    <file name="text">
+      <wer>0.389</wer>
+      <cer>0.247</cer>
+      <levenshtein>811</levenshtein>
+      <ref>In Noord-Amerika het die VSA en Kanada ’n nuwe handelsooreenkoms onderteken wat poog om
+            tariewe op
+            sleutelprodukte soos staal en motorvoertuie te verlaag. Die ooreenkoms is deel van ’n
+            poging om
+            ekonomiese groei aan te wakker en bilaterale verhoudings te versterk na jare van
+            spanning oor
+            handelsbeleid. Landbouprodusente aan beide kante van die grens verwelkom die skuif, maar
+            sommige
+            nywerhede waarsku dat verdere aanpassings nodig is om ’n regverdige speelveld te
+            verseker.</ref>
+      <hypo>Noord-Amerika had die VSA in Canada een nieuwe handelsooreenkomst ondertekend, wat poog om dariewe en
+                sleetelproducten se stal en moordtoesuritaille te verlaag. Die ooreenkomst is deel van een poging om
+                economiese groei aan te wakker en belittareale verhoudings te versterk na jaren van spanning oor
+                handelsbeleid. Landbouwproducten aan beide kante van die grens verwelkom die skuif, maar sommige
+                naiwereren, woorsky dat verdere aanpassingsnurig is om rechtvaardige speelfeld te verzeker.</hypo>
+    </file>
+  </block>
+  <block id="30">
+    <file name="text">
+      <wer>0.436</wer>
+      <cer>0.240</cer>
+      <levenshtein>481</levenshtein>
+      <ref>Die beskerming van minderheidsgroepe en menseregte is steeds ’n fokuspunt in
+            internasionale
+            diplomatie. Die Verenigde Nasies het onlangs ’n resolusie aanvaar wat lidlande aanmoedig
+            om stappe
+            te neem teen diskriminasie en vervolging van etniese en godsdienstige minderhede. In
+            lande soos
+            Mianmar en Afghanistan bly regtegroepe besorg oor die lot van kwesbare bevolkings, en
+            internasionale
+            druk neem toe om hervormings te implementeer en onregverdige beleid te hersien. Hierdie
+            kwessies
+            staan sentraal in verskeie wêreldwye forums en konferensies hierdie maand.</ref>
+      <hypo>Die beskerming van minderhuisgroepen en mensrechten is steeds een focuspunt in internationale
+                diplomatie. Die Verenigde Nasies het onlangs een resolutie aanvaar wat lidlande aanmoerig omstappen te
+                neem ten discriminatie en vervolging van etniese en goddienstelijke minderhede. In lande, sys Myanmar en
+                Afghanistan, blei rechte groepen bezorgd oor die lot van kwetsbare bevolkings. Een internationale druk
+                neemt toe om mehervorming te implementeer en onrechverdige beleid te herzien. In die kwesties staan
+                centraal en verscheihe wereldweie forums en conferenties hierdie maand.</hypo>
+    </file>
+  </block>
+  <block id="31">
+    <file name="text">
+      <wer>0.909</wer>
+      <cer>0.383</cer>
+      <levenshtein>62</levenshtein>
+      <ref>Mense in Suid-Afrika kla dat nuwe karre deesdae baie kos. Dit maak dit moeilik vir baie om 'n splinternuwe voertuig te koop.</ref>
+      <hypo>Mensen in Zuid-Afrika klaar dat nieuwe karren die eist al bije kost. Dat maakt het moeilijk voor bije
+                om e splinte nieuwe voortuig te koop.</hypo>
+    </file>
+  </block>
+  <block id="32">
+    <file name="text">
+      <wer>0.304</wer>
+      <cer>0.261</cer>
+      <levenshtein>38</levenshtein>
+      <ref>Die prys van petrol is weer 'n groot kopseer. Dit maak ry duurder en mense soek nou na karre wat minder brandstof gebruik.</ref>
+      <hypo>Die prijs van petrol is weer een goeie kopsie. Dit maak rei dierder en mens soek nou na karre wat
+                minder brandstof gebruik.</hypo>
+    </file>
+  </block>
+  <block id="33">
+    <file name="text">
+      <wer>0.600</wer>
+      <cer>0.336</cer>
+      <levenshtein>55</levenshtein>
+      <ref>Al hoe meer elektriese karre is hier. Hulle gebruik nie petrol nie, maar is nogal duur. Die regering kyk hoe hulle dit goedkoper kan maak.</ref>
+      <hypo>Alhoewel meer elektriske karren hier is, hylle gebreik nie petrol nie, maar is nogal dier. Dierig
+                hierin kijk hoe hylle dit goed koop kan maak.</hypo>
+    </file>
+  </block>
+  <block id="34">
+    <file name="text">
+      <wer>0.421</wer>
+      <cer>0.237</cer>
+      <levenshtein>32</levenshtein>
+      <ref>Omdat nuwe karre duur is, verkoop tweedehandse karre baie goed. Mense soek goeie, gebruikte voertuie wat hul kan bekostig.</ref>
+      <hypo>Omdat niewe karredier is, verkoop tweedehandse karren bieie goed. Mensen soek goeie, gebruikte
+                voertuige wat hulle kan bekostig.</hypo>
+    </file>
+  </block>
+  <block id="35">
+    <file name="text">
+      <wer>0.440</wer>
+      <cer>0.237</cer>
+      <levenshtein>37</levenshtein>
+      <ref>Die karfabrieke hier in Suid-Afrika is belangrik. Hulle maak karre vir ons en vir ander lande, wat help om werk te skep vir baie mense.</ref>
+      <hypo>Die karfabriek hier in Zuid-Afrika is belangrijk. Hele maak karre voor ons en voor anderlande. Wat
+                help om werk te skep voor bieie mensen.</hypo>
+    </file>
+  </block>
+  <block id="36">
+    <file name="text">
+      <wer>0.238</wer>
+      <cer>0.195</cer>
+      <levenshtein>23</levenshtein>
+      <ref>Soms is dit moeilik om onderdele vir karre te kry. Dit beteken karre staan langer in die werkswinkel as iets breek.</ref>
+      <hypo>Soms is dit moeilik om onderdelen voor karren te kry. Dit beteken karren staan langer in die
+                werkwinkel as iets breek.</hypo>
+    </file>
+  </block>
+  <block id="37">
+    <file name="text">
+      <wer>0.417</wer>
+      <cer>0.258</cer>
+      <levenshtein>37</levenshtein>
+      <ref>Die nuwe karre wat gemaak word, is al hoe veiliger. Hulle het nuwe tegnologie wat help om ongelukke te voorkom en mense te beskerm.</ref>
+      <hypo>Die nieuwe kar wat gemaakt word is al goeie veilige. Hylle het nieuwe technologie wat help om
+                ongelukkig te voorkom en mens te beskerm.</hypo>
+    </file>
+  </block>
+  <block id="38">
+    <file name="text">
+      <wer>0.467</wer>
+      <cer>0.151</cer>
+      <levenshtein>22</levenshtein>
+      <ref>Bakkies is steeds baie populêr in Suid-Afrika. Mense gebruik dit vir werk en vir plesier.</ref>
+      <hypo>Bacchies is styrks baie populair in Zuid-Afrika. Mensen gebreikt dit vir werk en vir plasier.</hypo>
+    </file>
+  </block>
+  <block id="39">
+    <file name="text">
+      <wer>0.318</wer>
+      <cer>0.250</cer>
+      <levenshtein>31</levenshtein>
+      <ref>Dit is 'n uitdaging om karre uit die fabrieke na die handelaars te kry. Daar is soms probleme met treine en vragmotors.</ref>
+      <hypo>Dit is een uitdaging om karren uit die fabriek na die handelaars te kreeg. Daar is soms probleem met
+                treinen en vrachtmotors.</hypo>
+    </file>
+  </block>
+  <block id="40">
+    <file name="text">
+      <wer>0.286</wer>
+      <cer>0.218</cer>
+      <levenshtein>27</levenshtein>
+      <ref>Karre word al hoe slimmer. Hulle het nou goed soos groot skerms, GPS, en ander snufies wat die rit lekkerder maak.</ref>
+      <hypo>Kara word al hoor slimme, hulle het nou goed soos grootskerms, GPS en ander sniffies wat die rit
+                lekkerder maak.</hypo>
+    </file>
+  </block>
+  <block id="41">
+    <file name="text">
+      <wer>0.457</wer>
+      <cer>0.327</cer>
+      <levenshtein>539</levenshtein>
+      <ref>Daar’s groot opgewondenheid in die land, want daar’s pas ‘n nuwe koalisie in die
+            parlement aangekondig. Die partye sê hulle gaan nou saamwerk om werkloosheid te probeer
+            afneem en korrupsie vas te vat. Sommige mense is hoopvol, maar ander wonder of almal
+            regtig saam sal trek.</ref>
+      <hypo>Daar is groot opgewondenheid in die land, want daar is pas een nieuwe coalitie in die parlement
+                aangekondigd. Die partijen sê hulle gaan naar Saanwerk om waardelisheid te prober afneem en corruptie
+                vast te vat. Sommige mensen is hoopvol, maar ander woon of allemaal rechthig Saan zal trek.</hypo>
+    </file>
+  </block>
+  <block id="42">
+    <file name="text">
+      <wer>0.521</wer>
+      <cer>0.309</cer>
+      <levenshtein>434</levenshtein>
+      <ref>Gister het die president ‘n toespraak gehou oor belasting. Hy het belowe daar sal nie
+            groot verhogings wees nie, maar mense is steeds bekommerd oor pryse wat styg. In die
+            stad sê sakemanne hulle hoop die regering gaan klein besighede meer ondersteun, want
+            almal voel die ekonomiese druk.</ref>
+      <hypo>Huste die die president, het toespraak hou over belasting. Huit belove, daar sal nie groot
+                verwoegingswees nie, maar mens is tyes bekommerd waar prijse wat stijg. En die staatssie zakemanne,
+                hulle hoop die regering gaan klein, wees gere meer ondersteen wat allemaal voel die economiese druk.</hypo>
+    </file>
+  </block>
+  <block id="43">
+    <file name="text">
+      <wer>0.429</wer>
+      <cer>0.342</cer>
+      <levenshtein>424</levenshtein>
+      <ref>‘n Bekende opposisieleider is vandag in die nuus omdat sy kritiek gelewer het op die
+            nuwe wet oor waterbeskerming. Sy sê dis nodig, maar sy dink die regering luister nie na
+            gemeenskappe wat geraak word nie. Aan die anderkant sê die minister almal kry kans om
+            insette te lewer.</ref>
+      <hypo>A bekende oppositieleier is vandag in die nieis, omdat sa kritiek gelever het op die niewe wet oor
+                waterbescherming. Sa sê dus nodig, maar sa dink nie die regering luister na gemeenskap wat gerook word
+                nie. Ong die ander kant sê die minister krijg almoe kans om inzete te lever.</hypo>
+    </file>
+  </block>
+  <block id="44">
+    <file name="text">
+      <wer>0.522</wer>
+      <cer>0.374</cer>
+      <levenshtein>318</levenshtein>
+      <ref>In die dorp het die munisipaliteit nou weer vergader oor die paaie wat vol gate is.
+            Die burgemeester sê daar is geld, maar die kontrakteurs vat lank. Baie inwoners is moeg
+            vir beloftes—hulle sê elke jaar hoor hulle dieselfde en die paaie bly net so sleg.</ref>
+      <hypo>In die dorp het die municipaliteit nou weer vergaat over die paie wat vol gaat is. Die burgemeester sê
+                daar is geld, maar die contracteers vaat lang. Baaninwoners is moeg ver beloofd is. Al sê elk jaar, word
+                al die saaftie en die paie blij nie te uslag.</hypo>
+    </file>
+  </block>
+  <block id="45">
+    <file name="text">
+      <wer>0.519</wer>
+      <cer>0.356</cer>
+      <levenshtein>325</levenshtein>
+      <ref>Die verkiesing kom oor ‘n paar maande en die partye begin plakkate opsit en by skole
+            toesprake hou. Party mense is opgewonde, ander sê hulle het klaar besluit vir wie hulle
+            gaan stem. Baie jongmense sê hulle voel hul stem maak nie ‘n verskil nie, maar
+            organisasies moedig hulle aan om betrokke te raak.</ref>
+      <hypo>Die verkieing kom oor een paar maande en die partijen begint plakate opzit en bij school toe spraak
+                hou. Partijmense is opgewonden en anders sê hulle is klaarbesluit verwie hulle gaan stem. Bei jongmense
+                sê hulle voel hulle stem mag nie een verschil nie, maar organisaties mogen hulle aan om betrokken te
+                raak.</hypo>
+    </file>
+  </block>
+  <block id="46">
+    <file name="text">
+      <wer>0.500</wer>
+      <cer>0.313</cer>
+      <levenshtein>279</levenshtein>
+      <ref>Daar was ‘n betoging by die stadsraadgebou oor hoër elektrisiteitspryse. Baie mense sê
+            hulle kan nie die nuwe tariewe bekostig nie. Die burgemeester sê hulle probeer met Eskom
+            onderhandel, maar dit is moeilik. Intussen vra inwoners net vir meer deursigtigheid.</ref>
+      <hypo>Daar was een betooging bij die staalstraatsgebouw over hoor elektriciteitsprijs. Paar mens sê, hulle
+                kan nie die nie wat daar die webbekoos nie. Die burgemeester sê, hulle probeer met eiskom onderhandel.
+                Maar dit is moeilijk. Intussen vroo inwoordings, net voor meer deersuchtigheid.</hypo>
+    </file>
+  </block>
+  <block id="47">
+    <file name="text">
+      <wer>0.326</wer>
+      <cer>0.277</cer>
+      <levenshtein>427</levenshtein>
+      <ref>Die regering het vandag ‘n nuwe plan aangekondig om misdaad in die stad te beveg. Daar
+            gaan meer polisiëring wees en ‘n paar buurtwagte is nou ook betrek. Sommige inwoners sê
+            dis ‘n goeie begin, maar hulle hoop dit is nie net vir die nuus nie.</ref>
+      <hypo>Die regering het vandag in die Wip land aangekonnig om misdaad in die stad te beveg. Daar gaan meer
+                policiering wees en a paar biertwachte is ook nou betrek. Sommige inwoners sê dat is een goeie begin,
+                maar hulle hoop dit is nie net voor die nies nie.</hypo>
+    </file>
+  </block>
+  <block id="48">
+    <file name="text">
+      <wer>0.435</wer>
+      <cer>0.381</cer>
+      <levenshtein>494</levenshtein>
+      <ref>Na ‘n onlangse hofsaak oor grondbesit, is mense nuuskierig oor wat volgende gaan
+            gebeur. Die minister sê die regering wil seker maak almal kry ‘n regverdige kans, maar
+            boere sê hulle is onseker oor hul plase se toekoms. Dit bly ‘n warm gesprekspunt op die
+            dorp.</ref>
+      <hypo>Na onlangse wafzaak oor die grondbesit is mensel beskierig oor wat volgende gaan gebeur. Die minister
+                sê die regering wil zekermaak anbelkrijg a refaardige kans, maar boerde sê hulle is onzeker oor hulle
+                plaas is die toekomst. Dit blije een warm gesprekspunt op die dorp.</hypo>
+    </file>
+  </block>
+  <block id="49">
+    <file name="text">
+      <wer>0.400</wer>
+      <cer>0.269</cer>
+      <levenshtein>338</levenshtein>
+      <ref>Parlementslede het gister lank gedebatteer oor gesondheidsorg. Die minister belowe
+            meer klinieke gaan oopmaak en dat die diens gaan verbeter. Mense in die platteland sê
+            hulle hoop dit gebeur, want tans moet hulle ver ry om ‘n dokter te sien.</ref>
+      <hypo>Parlamentsliera het gister lang gedebateer oor die geswontheidszorg. Die minister beloof dat meer
+                klinieke gaan openmak en dat die dienst gaan verbeter. Mensen in die platteland sê hulle open dat dit
+                gebeur, want thans moet hulle ver rai om dokter te sê.</hypo>
+    </file>
+  </block>
+  <block id="50">
+    <file name="text">
+      <wer>0.468</wer>
+      <cer>0.315</cer>
+      <levenshtein>470</levenshtein>
+      <ref>Die opposisie hou vandag ‘n groot byeenkoms in die hoofstad. Hulle sê hulle wil die
+            regering se planne uitdaag en hul eie oplossings voorstel. Partylede het plakkate en
+            T-hemde gedra en daar is ‘n regte fees-atmosfeer, al is daar ook ‘n paar teenstanders
+            wat kom protesteer het.</ref>
+      <hypo>Die oppositie hou vandag een groot bijeenkomst in die oorstad. Hille sê, hulle wil die regeringse
+                plannen uitdaag en hulle eie oplossingsvoorspel. Partij Lerre het plakate en tehende gedraag en daar is
+                een rechte feesatmosfeer. Al is daar ook a paar tenstanders wat kon protesteren.</hypo>
+    </file>
+  </block>
+  <block id="51">
+    <file name="text">
+      <wer>0.424</wer>
+      <cer>0.315</cer>
+      <levenshtein>78</levenshtein>
+      <ref>Suid-Afrikaanse skole probeer al hoe meer om kinders in hul eie moedertaal te leer,
+            veral as hulle klein is. Navorsing wys dat dit kinders help om beter te leer en slim te
+            word.</ref>
+      <hypo>Zuid-Afrikaanse skoele probeer alie meer om kinders nal eie moedertool te leer, ver alles hulle klein
+                is, na voor syn wys dat het kinders helpt om beter te leer en slim te word.</hypo>
+    </file>
+  </block>
+  <block id="52">
+    <file name="text">
+      <wer>0.576</wer>
+      <cer>0.420</cer>
+      <levenshtein>114</levenshtein>
+      <ref>Daar is 'n nuwe aanlyn skool in Afrikaans wat volgende jaar begin. Dit is goed vir
+            gesinne wat hul kinders by die huis wil skoolhou, en dit wys hoe tegnologie help met
+            leer.</ref>
+      <hypo>Daar is nie we online school in Afrikaans wat volgende jaar begin. Dit is giet vir gesêne wat al
+                genesbari haais wil scoren. Én dit wese technieelikie helpt mit lief.</hypo>
+    </file>
+  </block>
+  <block id="53">
+    <file name="text">
+      <wer>0.812</wer>
+      <cer>0.403</cer>
+      <levenshtein>391</levenshtein>
+      <ref>Baie leerders in Suid-Afrika sukkel nog met lees en skryf, veral in 'n tweede taal
+            soos Afrikaans. Onderwysers probeer nuwe maniere vind om hulle te help, maar daar is nog
+            baie uitdagings.</ref>
+      <hypo>Baie leerleis in Syde Afrikans sykkel nolk myk lees in Scribe, verallie dit werd het al soos
+                Afrikaans, un er weiß eis prabier niem me nie ruffend om dit te help, maar daar is nolk baie eind
+                ochings.</hypo>
+    </file>
+  </block>
+  <block id="54">
+    <file name="text">
+      <wer>0.419</wer>
+      <cer>0.302</cer>
+      <levenshtein>252</levenshtein>
+      <ref>Die regering kyk nou weer na hoe ons onderwysers oplei. Hulle wil seker maak ons het
+            genoeg goeie onderwysers, veral vir die jongste kinders en vir vakke soos wetenskap en
+            wiskunde.</ref>
+      <hypo>Die regering kijkt nou weer na hoe ons onderwijsers opleik. Ellel wil sikermook ons het genieeg goeie
+                onderwijsers, vooral vir die jongste kinders en voor vakkansus, wetenskap en wiskende.</hypo>
+    </file>
+  </block>
+  <block id="55">
+    <file name="text">
+      <wer>0.759</wer>
+      <cer>0.429</cer>
+      <levenshtein>114</levenshtein>
+      <ref>Sommige staatskole in Suid-Afrika doen regtig goed, selfs beter as van die duur
+            private skole! Dit wys dat met harde werk en goeie onderwysers, ons kinders ver kan kom.</ref>
+      <hypo>Sommige staatskolen sout Afrika dyn rechte gyd, sels Pietras van die dier privat skoele. Dat wees dat
+                my die harde werk in Kujan er wees is ons genners ver kan kom.</hypo>
+    </file>
+  </block>
+  <block id="56">
+    <file name="text">
+      <wer>0.517</wer>
+      <cer>0.353</cer>
+      <levenshtein>77</levenshtein>
+      <ref>Geld vir skole bly 'n groot kwessie. Die regering probeer om geld regverdig te
+            versprei, veral vir armer skole wat sukkel om alles te koop wat hulle nodig het.</ref>
+      <hypo>Geld voor school blije grot kweesie. Die regering probeer om geldraagvaarig te versprei, vooral voor
+                arme school en wat sickle om alles te koop wat hulle nodig heet.</hypo>
+    </file>
+  </block>
+  <block id="57">
+    <file name="text">
+      <wer>0.600</wer>
+      <cer>0.300</cer>
+      <levenshtein>88</levenshtein>
+      <ref>'n Groot nuwe privaat universiteit in Afrikaans word gebou. Dit sal meer geleenthede
+            bied vir studente om in Afrikaans te studeer en die taal se toekoms in hoër onderwys
+            verseker.</ref>
+      <hypo>A grutniewe privat universiteit in Afrikaans wordt gebouwd. Dit sal meer geleend hierdie bied vir
+                studenten om in Afrikaans te studeer en die taals op die komst in oor en naar huis versieke.</hypo>
+    </file>
+  </block>
+  <block id="58">
+    <file name="text">
+      <wer>0.667</wer>
+      <cer>0.409</cer>
+      <levenshtein>111</levenshtein>
+      <ref>Meer en meer skole gebruik nou tegnologie in die klas, soos tablette en rekenaars.
+            Dit maak leer meer pret en gee kinders toegang tot baie inligting, al is daar nog
+            uitdagings met toegang.</ref>
+      <hypo>Mere en meer schuil ikk gebruik nou technliefie nie klas, sê sn tablete en reeknoors. Dat mok leer
+                meer breed en gekoeneersdoegang tot baar inlichting, al is er nog eidavings mydoegang.</hypo>
+    </file>
+  </block>
+  <block id="59">
+    <file name="text">
+      <wer>0.464</wer>
+      <cer>0.260</cer>
+      <levenshtein>59</levenshtein>
+      <ref>Die regering wil die wet verander oor skooltoelatings en taalbeleid. Dit veroorsaak
+            soms 'n bietjie drama, want mense is bekommerd oor wat dit vir Afrikaanse skole sal
+            beteken.</ref>
+      <hypo>Die regering wil die weet van ander oor skool tilatings en taal beleid. Dit veroorzaak soms bieke
+                drama, want mens is bekommerd oor wat het vir Afrikaanse schooles sal beteken.</hypo>
+    </file>
+  </block>
+  <block id="60">
+    <file name="text">
+      <wer>0.605</wer>
+      <cer>0.460</cer>
+      <levenshtein>282</levenshtein>
+      <ref>Daar is baie nuwe idees oor hoe om die skoolkurrikulum te verbeter. Dit gaan oor wat
+            kinders leer en hoe hulle dit leer, sodat hulle reg is vir die toekoms en alles wat die
+            wêreld van hulle vra.</ref>
+      <hypo>Daar is baar nie wie die is waarom u skoekar nie glimt te verbeter. Dat kan oor wat kinders leer en
+                hoe hulle net leer, sêle tylle rechensvrietekomst en alles wat die wereld van aie vrouw.</hypo>
+    </file>
+  </block>
+</transcripts>

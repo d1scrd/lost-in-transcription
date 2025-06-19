@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcripts>
+  <file name="International1.m4a">
+    <wer>0.319</wer>
+    <cer>0.143</cer>
+    <levenshtein>737</levenshtein>
+    <ref>Die wêreld hou asem op namate spanning tussen Rusland en Oekraïne weer toeneem. In die afgelope week het verskeie internasionale organisasies, insluitend die Verenigde Nasies en die Europese Unie, hul kommer uitgespreek oor die verskerping van militêre optrede naby die oostelike grens van Oekraïne. Burgers in Kiev en omliggende dorpe leef in vrees vir verdere konflik, terwyl diplomatieke pogings in Genève voortgaan om ’n volhoubare oplossing te vind. Intussen het duisende mense hul huise verlaat en is daar kommer oor humanitêre nood, met voedsel- en mediese voorrade wat begin min raak.</ref>
+    <hypo>Die wereld hou asem op na mate spanning tussen Rusland en Oekraïne weer toeneem. In
+        die afgeloope week het verskye internationale organisaties, insluitend die Verenigde Naties en Europese Unie,
+        halkommer uitgesprek oor die verwerping van militaire optrede na by die oostlike grens van Oekraïne. Burgers in
+        Kyiv en omliggende dorpe leven vrees vir verdere konflikt, terwyl diplomatieke boegings in Geneva voortgaan om
+        een volhoudbare oplossing te vind. Intussen het duisende mensen hul huise verlaat en is daar kommer oor
+        humanitaire nood met voedsel en medische voororde wat begin min raak.</hypo>
+  </file>
+</transcripts>
