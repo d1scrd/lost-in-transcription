@@ -7,8 +7,8 @@ import xml.sax.saxutils as saxutils
 #* CONFIGURATION 
 AUDIO_DIR      = "../Audio/Skool"    # Specify the folder of the recordings of the topic
 FILE_BASENAME  = "Speaker2_Skool_" # The pre-text before the identification of the Recording ID
-OUTPUT_XML     = "TransXMLs/Skool_Trans.xml"
-MODEL_NAME     = "turbo"  
+OUTPUT_XML     = "../transcriptions/TransXMLs/Skool_Trans.xml"
+MODEL_NAME     = "medium"  
 
 def main():
     print(f"Loading Whisper model '{MODEL_NAME}' …")

@@ -23,8 +23,8 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 nltk.download("punkt", quiet=True)
 nltk.download('punkt_tab')
 
-SOURCE_XML = "kdd_transcripts_medium_all_copy_healed_normalized_translated.xml"      
-OUTPUT_XML = "kdd_transcripts_medium_all_copy_healed_normalized_translated_topics.xml"
+SOURCE_XML = "../transcriptions/kdd/kdd_transcripts_medium_all_copy_healed.xml"      
+OUTPUT_XML = "../transcriptions/kdd/kdd_transcripts_medium_all_copy_healed.xml"
 EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 TOP_TERMS_PER_TOPIC = 3
 CUSTOM_STOPWORD_FILE = "wordlist.txt"

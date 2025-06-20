@@ -19,8 +19,8 @@ TRANSCRIPT_FILES = [
     "transcript_international1_noise.xml",
     "transcript_international1.xml",
 ]
-REFERENCE_XML = "transcriptions/nchlt_afr.trn.xml"
-TEST_REFERENCE_XML = "transcriptions/nchlt_afr.tst.xml"
+REFERENCE_XML = "../audio_nchlt/transcriptions/nchlt_afr.trn.xml"
+TEST_REFERENCE_XML = "../audio_nchlt/transcriptions/nchlt_afr.tst.xml"
 METRICS_DIR = "metrics"
 
 #* Get completed folders from transcript XML

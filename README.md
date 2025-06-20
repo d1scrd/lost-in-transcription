@@ -83,7 +83,91 @@ python --version    # Should output Python 3.12.0 or newer
 ffmpeg -version     # Should output FFmpeg version
 pip list            # Should include project dependencies
 ```
+## Dowload NCHLT
+
+https://repo.sadilar.org/items/4357e52c-f8e8-4109-a373-ed6700dcba77
+
+Download the af_za.tar.gz from the link above. Extract the zip and copy the `nchlt_afr` folder into the `audio_nchlt` folder int he cloned repository. 
+
 
 ## Usage
 
 Run each step after activating the venv:
+
+**Most files have specified paths on files that exist. But the input files can be changed to run on different input files**
+
+## In the scripts folder
+```bash
+cd scripts
+```
+
+### Running NCHLT transcriptions:
+**Note this scripts will take several hours to complete**
+
+```bash
+python run_nchlt_transcriptions.py
+```
+
+#### Then heal the xml for further steps:
+**Please specify the inputfiles to heal inside of the heal_xml.py file**
+```bash
+python heal_xml.py
+```
+
+#### Comparing NCHLT results:
+```bash
+python compare_nchlt_results.py
+```
+
+### Running kdd transcriptions
+**Run the script on the multiple files and then combine the files using the combine script**
+
+In the run_kdd_transcriptions.py specify the folder containing the auidio files on the topic you want to transcribe
+
+```bash
+python run_kdd_transcriptions.py
+```
+
+#### Combine the transcribed files
+```bash
+python combine_kdd_transcripts.py
+```
+
+
+### Running one transcription
+
+Specify the audio file you want to transcribe in the run_one_transcription.py
+
+```bash
+python run_one_transcription.py
+```
+
+### Running topic modeling
+Specify the files you want to run through the topic modeling strip in the `run_topic_modeling.py` for afrikaans files and `run_topic_modeling_english.py` for translated files
+
+```bash
+python run_topic_modeling.py
+python run_topic_modeling_english.py
+```
+
+### Running translation
+Specify xml file to translate in translation.py
+
+```bash
+python translation.py
+```
+
+### Other scripts
+For all specify the input files
+
+```bash
+python wave_form.py
+```
+
+```bash
+python graph.py
+```
+
+```bash
+python intent.py
+```

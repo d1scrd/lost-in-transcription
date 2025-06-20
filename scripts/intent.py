@@ -9,9 +9,9 @@ from difflib import SequenceMatcher
 green = "\033[92m"; yellow = "\033[93m"; red = "\033[91m"; cyan = "\033[96m"; reset = "\033[0m"
 
 #* CONFIGURATION
-INPUT_XML = "./kdd_transcripts_medium_all_copy_healed.xml"
-AF_DIC, AF_AFF = "./af_ZA.dic", "./af_ZA.aff"
-NL_DIC, NL_AFF = "./nl.dic", "./nl.aff"
+INPUT_XML = "../transcriptions/kdd/kdd_transcripts_medium_all_copy_healed.xml"
+AF_DIC, AF_AFF = "../dictionaries/af_ZA.dic", "../dictionaries/af_ZA.aff"
+NL_DIC, NL_AFF = "../dictionaries/nl.dic", "../dictionaries/nl.aff"
 TOP_K = 5
 MAX_EDITS = 3
 LENGTH_RATIO = (0.8, 1.2)

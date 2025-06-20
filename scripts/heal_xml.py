@@ -13,9 +13,9 @@ RED = "\033[91m"
 
  #** CONFIGURATION
 INPUT_FILES = [
-    "kdd_transcripts_medium_all_copy.xml",
+    "../transcriptions/kdd/kdd_transcripts_medium_all_copy.xml",
 ]
-MODEL_NAME = "small"
+MODEL_NAME = "medium"
 
 def remove_last_incomplete_block(xml):
     open_tags = list(re.finditer(r"<(?P<id>\d{3})>", xml))

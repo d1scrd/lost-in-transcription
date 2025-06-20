@@ -4,8 +4,8 @@ import whisper
 import xml.sax.saxutils as saxutils
 import re
 
-AUDIO_FOLDER = r"nchlt.speech.corpus.afr/nchlt_afr/audio"     
-TRANSCRIPT_XML = "transcripts.xml"  
+AUDIO_FOLDER = r"../audio_nchlt/nchlt_afr/audio"     
+TRANSCRIPT_XML = "../transcriptions/nchlt/transcripts_medium_master.xml"  # Specify the output file for the transcriptions
 WHISPER_MODEL = "medium"        
 
 #* ANSI color codes for user feedback

@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 
 #* Paths to input and output XML files
-INPUT_PATH = './kdd_transcripts_medium_all_copy_healed_normalized_final.xml'
-OUTPUT_PATH = './kdd_transcripts_medium_all_copy_healed_normalized_final_translated.xml'
+INPUT_PATH = '../transcriptions/kdd/kdd_transcripts_medium_all_copy_healed_normalized_final.xml'
+OUTPUT_PATH = '../transcriptions/kdd/kdd_transcripts_medium_all_copy_healed_normalized_final_translated.xml'
 
 def load_translator(model_name='facebook/nllb-200-1.3b', src_lang='afr_Latn', tgt_lang='eng_Latn'):
     #* Initialize tokenizer and model for NLLB-200

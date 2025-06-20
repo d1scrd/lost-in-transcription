@@ -4,9 +4,9 @@ import xml.sax.saxutils as saxutils
 import os
 
 #* Configuration
-AUDIO_FILE = "International1_with_reversed_noise_.wav"
-OUTPUT_XML = "transcript_international1_noise.xml"
-MODEL_NAME = "large" #! Can also use "tiny", "small", "medium", and "turbo"
+AUDIO_FILE = "../audio_kdd/Besigheid/Besigheid1.m4av"
+OUTPUT_XML = "../transcriptions/transcript_besigheid_1.xml"
+MODEL_NAME = "medium" #! Can also use "tiny", "small", "medium", and "turbo"
 LANGUAGE = "af"
 
 def main():

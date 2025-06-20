@@ -3,7 +3,7 @@ import librosa
 import matplotlib.pyplot as plt
 
 #* Simple waveform plotter
-AUDIO_FILE = "International1_isolated.wav"
+AUDIO_FILE = "../audio_kdd/Besigheid/Besigheid1.m4av"
 OUTPUT_DIR = "waveforms"
 FIG_SIZE = (12, 4)
 

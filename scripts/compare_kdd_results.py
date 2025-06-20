@@ -16,10 +16,10 @@ RESET = "\033[0m"
 
 #* CONFIGURATION
 TRANSCRIPT_FILES = [
-    "kdd_transcripts_medium_all_copy_healed.xml",
-    "kdd_transcripts_medium_all_copy_healed_normalized.xml",
+    "../transcriptions/kdd/kdd_transcripts_turbo_all_copy_healed.xml",
+    "../transcriptions/kdd/dd_transcripts_medium_all_copy_healed.xml",
 ]
-REFERENCE_XML = "combined_all.xml"
+REFERENCE_XML = "../transcriptions/TransXMLs/combined_kdd_transcriptions.xml"
 METRICS_DIR = "metrics"
 
 #* Get completed folders from transcript XML
